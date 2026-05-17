@@ -1,0 +1,1916 @@
+{
+  "exportedAt": "2026-05-16T17:03:43.431Z",
+  "count": 191,
+  "items": [
+    {
+      "slotId": "A-B-R1-C1",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "던힐 6MG",
+      "price": "4,500",
+      "tone": "a-dunhill-6mg",
+      "label": "a-dunhill-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R1-C2",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "던힐 3MG",
+      "price": "4,500",
+      "tone": "a-dunhill-3mg",
+      "label": "a-dunhill-gold",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R1-C3",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "던힐 1MG",
+      "price": "4,500",
+      "tone": "a-dunhill-1mg",
+      "label": "a-dunhill-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R1-C4",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "던힐 프로스트",
+      "price": "4,500",
+      "tone": "a-dunhill-frost",
+      "label": "a-dunhill-teal",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R2-C1",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "런던",
+      "price": "4,500",
+      "tone": "a-dunhill-london",
+      "label": "a-editions-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R2-C2",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "뉴욕",
+      "price": "4,500",
+      "tone": "a-dunhill-newyork",
+      "label": "a-editions-gold",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R2-C3",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "파리",
+      "price": "4,500",
+      "tone": "a-dunhill-paris",
+      "label": "a-editions-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R2-C4",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "멜로우 크러쉬",
+      "price": "4,500",
+      "tone": "a-dunhill-mellow-crush",
+      "label": "a-dunhill-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R3-C1",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "파인컷 수프림",
+      "price": "4,500",
+      "tone": "a-dunhill-finecut-switch",
+      "label": "a-finecut-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R3-C2",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "파인컷 1MG",
+      "price": "4,500",
+      "tone": "a-dunhill-finecut-1mg",
+      "label": "a-finecut-gray",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R3-C3",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "파인컷 울트라",
+      "price": "4,500",
+      "tone": "a-dunhill-finecut-ultra",
+      "label": "a-finecut-brown",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-B-R3-C4",
+      "zone": "A",
+      "brand": "DUNHILL",
+      "name": "파인컷 프로스트",
+      "price": "4,500",
+      "tone": "a-dunhill-finecut-frost",
+      "label": "a-finecut-teal",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R1-C1",
+      "zone": "A",
+      "brand": "neo",
+      "name": "아일랜드 클릭",
+      "price": "4,800",
+      "tone": "a-neo-island-click",
+      "label": "a-neo-orange",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R1-C2",
+      "zone": "A",
+      "brand": "neo",
+      "name": "블러쉬 클릭",
+      "price": "4,800",
+      "tone": "a-neo-blush-click",
+      "label": "a-neo-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R1-C3",
+      "zone": "A",
+      "brand": "neo",
+      "name": "퍼플부스트",
+      "price": "4,800",
+      "tone": "a-neo-purple-boost",
+      "label": "a-neo-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R1-C4",
+      "zone": "A",
+      "brand": "neo",
+      "name": "샤인 부스트",
+      "price": "4,800",
+      "tone": "a-neo-shine-boost",
+      "label": "a-neo-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R1-C5",
+      "zone": "A",
+      "brand": "neo",
+      "name": "부스트",
+      "price": "4,800",
+      "tone": "a-neo-boost",
+      "label": "a-neo-deep-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R2-C2",
+      "zone": "A",
+      "brand": "neo",
+      "name": "썬키스 클릭",
+      "price": "4,800",
+      "tone": "a-neo-sunkiss-cool",
+      "label": "a-neo-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R2-C3",
+      "zone": "A",
+      "brand": "neo",
+      "name": "다크 토바코",
+      "price": "4,800",
+      "tone": "a-neo-dark-tobacco",
+      "label": "a-neo-brown",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R2-C4",
+      "zone": "A",
+      "brand": "neo",
+      "name": "토바코 스위치",
+      "price": "4,800",
+      "tone": "a-neo-tobacco-switch",
+      "label": "a-neo-sky",
+      "cartridge": false
+    },
+    {
+      "slotId": "A-T-R2-C5",
+      "zone": "A",
+      "brand": "neo",
+      "name": "프레스코",
+      "price": "4,800",
+      "tone": "a-neo-fresco",
+      "label": "a-neo-sky",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R1-C5",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 스페셜골드",
+      "price": "5,000",
+      "tone": "esse-special-gold",
+      "label": "bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R1-C6",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 스페셜골드 1",
+      "price": "5,000",
+      "tone": "esse-special-gold-1",
+      "label": "bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R1-C7",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 스페셜골드 0.5",
+      "price": "5,000",
+      "tone": "esse-special-gold-05",
+      "label": "bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R2-C5",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 프레쏘",
+      "price": "4,500",
+      "tone": "esse-prime",
+      "label": "bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R3-C3",
+      "zone": "B",
+      "brand": "Raison",
+      "name": "레종 프렌치 ICE블랑",
+      "price": "4,500",
+      "tone": "raison-french-double",
+      "label": "bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R3-C7",
+      "zone": "B",
+      "brand": "Raison",
+      "name": "레종 아이오니아 퍼플",
+      "price": "4,500",
+      "tone": "raison-ionia-pink",
+      "label": "bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R3-C8",
+      "zone": "B",
+      "brand": "Raison",
+      "name": "레종 아이오니아 핑크",
+      "price": "4,500",
+      "tone": "raison-ionia-blue",
+      "label": "bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R4-C1",
+      "zone": "B",
+      "brand": "AFRICA",
+      "name": "아프리카 룰라",
+      "price": "4,500",
+      "tone": "africa-mola",
+      "label": "bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R4-C2",
+      "zone": "B",
+      "brand": "AFRICA",
+      "name": "아프리카 몰라",
+      "price": "4,500",
+      "tone": "africa-rula",
+      "label": "bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-B-R4-C6",
+      "zone": "B",
+      "brand": "Raison",
+      "name": "레종 휘바",
+      "price": "4,500",
+      "tone": "blue-hwiba",
+      "label": "bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-T-R2-C1",
+      "zone": "B",
+      "brand": "GRANULAR",
+      "name": "에임 시가러쉬",
+      "price": "4,800",
+      "tone": "aim-rush",
+      "label": "aim-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-T-R2-C5",
+      "zone": "B",
+      "brand": "HYBRID",
+      "name": "하이브리드 전용 카트리지",
+      "price": "300",
+      "tone": "hybrid-cart",
+      "label": "hybrid-black",
+      "cartridge": true
+    },
+    {
+      "slotId": "B-L-T-R3-C1",
+      "zone": "B",
+      "brand": "GRANULAR",
+      "name": "에임 아이스 러쉬",
+      "price": "4,800",
+      "tone": "aim3-rush",
+      "label": "aim-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-T-R3-C4",
+      "zone": "B",
+      "brand": "VAPOR STICK",
+      "name": "에임 탱고",
+      "price": "4,800",
+      "tone": "aim3-mango",
+      "label": "aim-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-T-R4-C2",
+      "zone": "B",
+      "brand": "AIM",
+      "name": "에임 쿨 샷",
+      "price": "4,800",
+      "tone": "aim4-tempgreen",
+      "label": "aim-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-T-R5-C1",
+      "zone": "B",
+      "brand": "AIM",
+      "name": "에임 체인지 업",
+      "price": "4,800",
+      "tone": "aim5-blooming",
+      "label": "aim-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-L-T-R5-C2",
+      "zone": "B",
+      "brand": "GRANULAR",
+      "name": "에임 헤이즈",
+      "price": "4,800",
+      "tone": "aim5-base",
+      "label": "aim-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C1",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지 W",
+      "price": "4,500",
+      "tone": "esse-change-w",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C2",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지 업",
+      "price": "4,500",
+      "tone": "esse-change-up-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C3",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지 빙",
+      "price": "4,500",
+      "tone": "esse-change-bing-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C4",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지",
+      "price": "4,500",
+      "tone": "esse-change-one-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C5",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지 4",
+      "price": "4,500",
+      "tone": "esse-change-4-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C6",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지 프로즌",
+      "price": "4,500",
+      "tone": "esse-change-frozen-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C7",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 히말라야 1mg",
+      "price": "4,500",
+      "tone": "esse-himalaya-1mg-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C8",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 히말라야 윈터",
+      "price": "4,500",
+      "tone": "esse-himalaya-winter-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R1-C9",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지 슈팅레드",
+      "price": "4,500",
+      "tone": "esse-change-shootingstar-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C1",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 느와르",
+      "price": "5,000",
+      "tone": "esse-noir-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C2",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "에쎄 체인지썬",
+      "price": "4,500",
+      "tone": "esse-change-sun-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C3",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 마스터",
+      "price": "7,000",
+      "tone": "bohem-cigar-master-br",
+      "label": "br-bottom-brown",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C4",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 시그니처",
+      "price": "10,000",
+      "tone": "bohem-cigar-mini-jazz-br",
+      "label": "br-bottom-brown",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C5",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 NO.6",
+      "price": "4,500",
+      "tone": "bohem-cigar-no6-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C6",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 NO.3",
+      "price": "4,500",
+      "tone": "bohem-cigar-no3-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C7",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 NO.1",
+      "price": "4,500",
+      "tone": "bohem-cigar-no1-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C8",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 미니 5",
+      "price": "4,500",
+      "tone": "bohem-cigar-mini5-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R2-C9",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 미니 1",
+      "price": "4,500",
+      "tone": "bohem-cigar-mini1-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C1",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 아이스핏",
+      "price": "4,500",
+      "tone": "bohem-cigar-icefit-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C2",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 슬림핏 브라운",
+      "price": "4,500",
+      "tone": "bohem-slimfit-brown-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C3",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 쿠바나 샷",
+      "price": "4,500",
+      "tone": "bohem-cubana-shot-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C4",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 쿠바나 더블",
+      "price": "4,500",
+      "tone": "bohem-cubana-double-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C5",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 리브레",
+      "price": "4,500",
+      "tone": "bohem-cigar-libre-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C6",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 시가 카리브",
+      "price": "4,500",
+      "tone": "bohem-cigar-caribe-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C7",
+      "zone": "B",
+      "brand": "THE ONE",
+      "name": "더원 블루",
+      "price": "4,500",
+      "tone": "theone-blue-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C8",
+      "zone": "B",
+      "brand": "THE ONE",
+      "name": "더원 오렌지",
+      "price": "4,500",
+      "tone": "theone-orange-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R3-C9",
+      "zone": "B",
+      "brand": "THE ONE",
+      "name": "더원 화이트",
+      "price": "4,500",
+      "tone": "theone-white-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C1",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보헴 파이프 스코티",
+      "price": "5,000",
+      "tone": "bohem-pipe-scotch-w-br",
+      "label": "br-bottom-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C2",
+      "zone": "B",
+      "brand": "THE ONE",
+      "name": "더원 체인지",
+      "price": "4,300",
+      "tone": "theone-change-w-br",
+      "label": "br-bottom-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C3",
+      "zone": "B",
+      "brand": "THIS",
+      "name": "디스",
+      "price": "4,000",
+      "tone": "this-original-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C4",
+      "zone": "B",
+      "brand": "THIS",
+      "name": "디스 플러스",
+      "price": "4,100",
+      "tone": "this-plus-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C5",
+      "zone": "B",
+      "brand": "TIME",
+      "name": "타임 미드",
+      "price": "4,300",
+      "tone": "time-mid-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C6",
+      "zone": "B",
+      "brand": "simple",
+      "name": "심플 클래식",
+      "price": "4,500",
+      "tone": "simple-classic-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C7",
+      "zone": "B",
+      "brand": "simple",
+      "name": "심플 에이스 1",
+      "price": "4,500",
+      "tone": "simple-ace1-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C8",
+      "zone": "B",
+      "brand": "LILAC",
+      "name": "라일락",
+      "price": "4,500",
+      "tone": "lilac-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-B-R4-C9",
+      "zone": "B",
+      "brand": "HALLASAN",
+      "name": "한라산",
+      "price": "4,500",
+      "tone": "hallasan-br",
+      "label": "br-bottom-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R1-C1",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 시가 컬렉션",
+      "price": "4,800",
+      "tone": "miix-cigar",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R1-C2",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 보나썸",
+      "price": "4,500",
+      "tone": "miix-bonita",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R1-C3",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 업투",
+      "price": "4,500",
+      "tone": "miix-up2",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R1-C4",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 콤보",
+      "price": "4,500",
+      "tone": "miix-combo",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R1-C5",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 클래시",
+      "price": "4,500",
+      "tone": "miix-blue-red",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R1-C6",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 클래시",
+      "price": "4,500",
+      "tone": "miix-classy",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R2-C1",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 퍼플썸",
+      "price": "4,500",
+      "tone": "miix-purple-some",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R2-C2",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 레드썸",
+      "price": "4,500",
+      "tone": "miix-red-some",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R2-C3",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 아이스",
+      "price": "4,500",
+      "tone": "miix-ice",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R2-C4",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 아이스더블",
+      "price": "4,500",
+      "tone": "miix-ice-tea",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R2-C5",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 아이스 뱅",
+      "price": "4,500",
+      "tone": "miix-ice-fit",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R2-C6",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 아이션",
+      "price": "4,500",
+      "tone": "miix-ice-unknown",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R3-C1",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 퍼플썸",
+      "price": "4,500",
+      "tone": "miix-r3-purple-some",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R3-C2",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 레드썸",
+      "price": "4,500",
+      "tone": "miix-r3-red-some",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R3-C3",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 ??",
+      "price": "4,500",
+      "tone": "miix-r3-ice",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R3-C4",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 믹스",
+      "price": "4,500",
+      "tone": "miix-r3-mix",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R3-C5",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 블루썸",
+      "price": "4,500",
+      "tone": "miix-r3-bluesome",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R3-C6",
+      "zone": "B",
+      "brand": "MIIX",
+      "name": "믹스 아이스 모아",
+      "price": "4,500",
+      "tone": "miix-r3-ice-moa",
+      "label": "miix-black",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R5-C1",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "히말라야 샤인",
+      "price": "4,500",
+      "tone": "himalaya-teal",
+      "label": "mint-tag",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R5-C2",
+      "zone": "B",
+      "brand": "ESSE",
+      "name": "히말라야 샤인",
+      "price": "4,500",
+      "tone": "himalaya-teal",
+      "label": "mint-tag",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R5-C3",
+      "zone": "B",
+      "brand": "HOGSHEAD",
+      "name": "호그스헤드 6mg",
+      "price": "4,500",
+      "tone": "hogshead-6",
+      "label": "white-tag",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R5-C4",
+      "zone": "B",
+      "brand": "HOGSHEAD",
+      "name": "호그스헤드 10mg",
+      "price": "4,500",
+      "tone": "hogshead-10",
+      "label": "white-tag",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R5-C5",
+      "zone": "B",
+      "brand": "Raison",
+      "name": "레종 아이오니아 레드",
+      "price": "4,500",
+      "tone": "ionia-coral",
+      "label": "sky-tag",
+      "cartridge": false
+    },
+    {
+      "slotId": "B-R-T-R5-C6",
+      "zone": "B",
+      "brand": "BOHEM",
+      "name": "보햄 시그니처 슈퍼슬램",
+      "price": "10,000",
+      "tone": "signature-brown",
+      "label": "brown-tag",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R1-C1",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "옐로우 3",
+      "price": "4,500",
+      "tone": "c-yellow-3",
+      "label": "c-lbs-yellow",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R1-C2",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "옐로우 1",
+      "price": "4,500",
+      "tone": "c-yellow-1",
+      "label": "c-lbs-yellow",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R1-C3",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "시트로 웨이브",
+      "price": "4,600",
+      "tone": "c-citro-wave",
+      "label": "c-lbs-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R1-C4",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "아이스 피즈",
+      "price": "4,600",
+      "tone": "c-ice-fizz",
+      "label": "c-lbs-orange",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R2-C1",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "스카이 블루(롱스)",
+      "price": "4,500",
+      "tone": "c-sky-blue-longs",
+      "label": "c-sky-blue-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R2-C2",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "스카이 블루(곽)",
+      "price": "4,500",
+      "tone": "c-sky-blue",
+      "label": "c-sky-blue-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R2-C3",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "스카이 블루(팩)",
+      "price": "4,500",
+      "tone": "c-sky-blue-2",
+      "label": "c-sky-blue-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R2-C4",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "믹스 그린",
+      "price": "4,500",
+      "tone": "c-mix-green",
+      "label": "c-mix-green-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R3-C1",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "윈드블루",
+      "price": "4,500",
+      "tone": "c-wind-blue",
+      "label": "c-wind-blue-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R3-C2",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "원",
+      "price": "4,500",
+      "tone": "c-one",
+      "label": "c-one-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R3-C3",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "아이스 스톰",
+      "price": "4,500",
+      "tone": "c-ice-storm",
+      "label": "c-ice-blue-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R3-C4",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "아이스 프로스트",
+      "price": "4,500",
+      "tone": "c-ice-frost",
+      "label": "c-ice-blue-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R4-C1",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "아이스 바나",
+      "price": "4,500",
+      "tone": "c-ice-berry",
+      "label": "c-lbs-yellow",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R4-C2",
+      "zone": "C",
+      "brand": "CAMEL",
+      "name": "카멜 파라다이스",
+      "price": "4,300",
+      "tone": "c-camel-paradise",
+      "label": "c-camel-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R4-C3",
+      "zone": "C",
+      "brand": "CAMEL",
+      "name": "카멜 필터 8",
+      "price": "4,300",
+      "tone": "c-camel-filter-8",
+      "label": "c-camel-gold",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-B-R4-C4",
+      "zone": "C",
+      "brand": "CAMEL",
+      "name": "카멜 블루 5",
+      "price": "4,300",
+      "tone": "c-camel-filter-5",
+      "label": "c-camel-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R1-C1",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보 엠버",
+      "price": "4,500",
+      "tone": "c-evo-amber",
+      "label": "c-evo-orange",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R1-C2",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보 아틱",
+      "price": "4,500",
+      "tone": "c-evo-arctic",
+      "label": "c-evo-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R1-C3",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보베이즈옵션",
+      "price": "4,500",
+      "tone": "c-evo-beige-option",
+      "label": "c-evo-olive",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R1-C4",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보그린옵션",
+      "price": "4,500",
+      "tone": "c-evo-green-option",
+      "label": "c-evo-teal",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R2-C1",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보 제이드",
+      "price": "4,500",
+      "tone": "c-evo-jade",
+      "label": "c-evo-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R2-C2",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보 마젠타",
+      "price": "4,500",
+      "tone": "c-evo-magenta",
+      "label": "c-evo-magenta",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R2-C3",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보핑크옵션",
+      "price": "4,500",
+      "tone": "c-evo-pink-option",
+      "label": "c-evo-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-E-R2-C4",
+      "zone": "C",
+      "brand": "evo",
+      "name": "에보퍼플옵션",
+      "price": "4,500",
+      "tone": "c-evo-purple-option",
+      "label": "c-evo-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-T-R1-C1",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "선셋 비치",
+      "price": "4,500",
+      "tone": "c-sky-beach",
+      "label": "c-yellow-orange",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-T-R1-C2",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "스파클링 듀",
+      "price": "4,500",
+      "tone": "c-spark-5",
+      "label": "c-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "C-T-R1-C3",
+      "zone": "C",
+      "brand": "MEVIUS",
+      "name": "나이스",
+      "price": "4,500",
+      "tone": "c-lbs-luxter",
+      "label": "c-coral",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R1-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "트로피컬 믹스",
+      "price": "4,500",
+      "tone": "c0-mevius-tropical-mix",
+      "label": "c0-orange",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R2-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "퍼플",
+      "price": "4,500",
+      "tone": "c0-mevius-lbs-purple",
+      "label": "c0-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R3-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "옐로우 수퍼슬림",
+      "price": "4,500",
+      "tone": "c0-mevius-lbs-yellow",
+      "label": "c0-yellow",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R4-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "오리지널",
+      "price": "4,500",
+      "tone": "c0-mevius-original",
+      "label": "c0-navy",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R5-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "윈드 블루",
+      "price": "4,500",
+      "tone": "c0-mevius-wind-blue",
+      "label": "c0-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R6-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "E-스타일 6",
+      "price": "4,300",
+      "tone": "c0-mevius-estyle6",
+      "label": "c0-estyle-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "C0-T-R7-C1",
+      "zone": "C0",
+      "brand": "MEVIUS",
+      "name": "E-스타일 3",
+      "price": "4,300",
+      "tone": "c0-mevius-estyle3",
+      "label": "c0-estyle-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R1-C1",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "레드",
+      "price": "4,500",
+      "tone": "d-marlboro-red",
+      "label": "d-marlboro-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R1-C2",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "미디엄",
+      "price": "4,500",
+      "tone": "d-marlboro-medium",
+      "label": "d-marlboro-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R1-C3",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "골드",
+      "price": "4,500",
+      "tone": "d-marlboro-gold",
+      "label": "d-marlboro-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R1-C4",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "블랙 루비",
+      "price": "4,800",
+      "tone": "d-terea-black-ruby",
+      "label": "d-terea-sky",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R2-C1",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "비스타 썸머",
+      "price": "4,500",
+      "tone": "d-marlboro-vista-summer",
+      "label": "d-vista-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R2-C2",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "비스타",
+      "price": "4,500",
+      "tone": "d-marlboro-vista",
+      "label": "d-vista-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R2-C3",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "비스타 가든",
+      "price": "4,500",
+      "tone": "d-marlboro-vista-garden",
+      "label": "d-vista-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R2-C4",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "비스타 블러썸",
+      "price": "4,500",
+      "tone": "d-marlboro-vista-black",
+      "label": "d-vista-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R3-C1",
+      "zone": "D",
+      "brand": "PARLIAMENT",
+      "name": "하이브리드 5",
+      "price": "4,500",
+      "tone": "d-parliament-hybrid-5",
+      "label": "d-hybrid-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R3-C2",
+      "zone": "D",
+      "brand": "PARLIAMENT",
+      "name": "하이브리드",
+      "price": "4,500",
+      "tone": "d-parliament-hybrid-1",
+      "label": "d-hybrid-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R3-C3",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "하이브리드 5",
+      "price": "4,500",
+      "tone": "d-marlboro-hybrid-5",
+      "label": "d-hybrid-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R3-C4",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "말보로 하이브리드 1",
+      "price": "4,500",
+      "tone": "d-marlboro-hybrid-1",
+      "label": "d-hybrid-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R4-C1",
+      "zone": "D",
+      "brand": "PARLIAMENT",
+      "name": "아쿠아 5",
+      "price": "4,500",
+      "tone": "d-parliament-aqua-5",
+      "label": "d-aqua-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R4-C2",
+      "zone": "D",
+      "brand": "PARLIAMENT",
+      "name": "아쿠아 3",
+      "price": "4,500",
+      "tone": "d-parliament-aqua-3",
+      "label": "d-aqua-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R4-C3",
+      "zone": "D",
+      "brand": "PARLIAMENT",
+      "name": "아쿠아 1",
+      "price": "4,500",
+      "tone": "d-parliament-aqua-1",
+      "label": "d-aqua-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-B-R4-C4",
+      "zone": "D",
+      "brand": "Marlboro",
+      "name": "아이스 블라스트",
+      "price": "4,500",
+      "tone": "d-marlboro-ice-blast",
+      "label": "d-ice-blast-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R1-C1",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "샤인 펄",
+      "price": "4,800",
+      "tone": "d-terea-siwon-pearl",
+      "label": "d-terea-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R1-C2",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "트와일라잇 펄",
+      "price": "4,800",
+      "tone": "d-terea-twilight-pearl",
+      "label": "d-terea-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R1-C3",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "리비에라 펄",
+      "price": "4,800",
+      "tone": "d-terea-riviera-pearl",
+      "label": "d-terea-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R2-C1",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "블루",
+      "price": "4,800",
+      "tone": "d-terea-blue",
+      "label": "d-terea-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R2-C2",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "블랙 그린",
+      "price": "4,800",
+      "tone": "d-terea-black-green",
+      "label": "d-terea-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R2-C3",
+      "zone": "D",
+      "brand": "TEREA",
+      "name": "블랙 퍼플",
+      "price": "4,800",
+      "tone": "d-terea-black-purple",
+      "label": "d-terea-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R3-C1",
+      "zone": "D",
+      "brand": "SENTIA",
+      "name": "센티아 골드",
+      "price": "4,500",
+      "tone": "d-sentia-gold",
+      "label": "d-sentia-gold",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R3-C2",
+      "zone": "D",
+      "brand": "SENTIA",
+      "name": "센티아 실버",
+      "price": "4,500",
+      "tone": "d-sentia-silver",
+      "label": "d-sentia-silver",
+      "cartridge": false
+    },
+    {
+      "slotId": "D-T-R3-C3",
+      "zone": "D",
+      "brand": "SENTIA",
+      "name": "센티아 다크 그린",
+      "price": "4,500",
+      "tone": "d-sentia-dark-green",
+      "label": "d-sentia-dark-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R1-C1",
+      "zone": "E",
+      "brand": "neo",
+      "name": "퍼플 부스트",
+      "price": "4,500",
+      "tone": "e-neo-purple-boost-bottom",
+      "label": "e-bottom-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R1-C2",
+      "zone": "E",
+      "brand": "VUSE",
+      "name": "퍼플 프레시 6ML",
+      "price": "25,000",
+      "tone": "e-vuse-purple-fresh-6ml",
+      "label": "e-bottom-vuse-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R1-C3",
+      "zone": "E",
+      "brand": "VUSE",
+      "name": "트로피컬 믹스",
+      "price": "10,000",
+      "tone": "e-vuse-tropical-mix",
+      "label": "e-bottom-vuse-gold",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R1-C4",
+      "zone": "E",
+      "brand": "VUSE",
+      "name": "루비 스파크",
+      "price": "10,000",
+      "tone": "e-vuse-ruby-spark",
+      "label": "e-bottom-vuse-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R1-C5",
+      "zone": "E",
+      "brand": "DUNHILL",
+      "name": "레인보우 부스트",
+      "price": "4,500",
+      "tone": "e-neo-rainbow-boost",
+      "label": "e-bottom-rainbow-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R2-C1",
+      "zone": "E",
+      "brand": "KENT",
+      "name": "켄트 화이트1",
+      "price": "4,500",
+      "tone": "e-kent-white1",
+      "label": "e-kent-silver",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R2-C2",
+      "zone": "E",
+      "brand": "KENT",
+      "name": "켄트 스위치1",
+      "price": "4,500",
+      "tone": "e-kent-switch1",
+      "label": "e-kent-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R2-C3",
+      "zone": "E",
+      "brand": "KENT",
+      "name": "켄트 퍼플1",
+      "price": "4,500",
+      "tone": "e-kent-purple1",
+      "label": "e-kent-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R2-C4",
+      "zone": "E",
+      "brand": "KENT",
+      "name": "켄트 0.5MG",
+      "price": "4,500",
+      "tone": "e-kent-05mg",
+      "label": "e-kent-gold",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R2-C5",
+      "zone": "E",
+      "brand": "DUNHILL",
+      "name": "파인컷 스위치 ONE",
+      "price": "4,500",
+      "tone": "e-dunhill-finecut-switch-one",
+      "label": "e-finecut-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R3-C1",
+      "zone": "E",
+      "brand": "Marlboro",
+      "name": "화이트 업",
+      "price": "4,500",
+      "tone": "e-marlboro-white8",
+      "label": "e-white-green",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R3-C2",
+      "zone": "E",
+      "brand": "DUNHILL",
+      "name": "던힐 스위치 6MG",
+      "price": "4,500",
+      "tone": "e-dunhill-switch-6mg",
+      "label": "e-dunhill-switch-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R3-C3",
+      "zone": "E",
+      "brand": "DUNHILL",
+      "name": "던힐 스위치 ONE",
+      "price": "4,500",
+      "tone": "e-dunhill-switch-one",
+      "label": "e-dunhill-switch-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R3-C4",
+      "zone": "E",
+      "brand": "neo",
+      "name": "트로피컬 블라스트",
+      "price": "4,800",
+      "tone": "e-hyper-tropical-blast",
+      "label": "e-hyper-orange",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R3-C5",
+      "zone": "E",
+      "brand": "neo",
+      "name": "핑크 블라스트",
+      "price": "4,800",
+      "tone": "e-hyper-pink-blast",
+      "label": "e-hyper-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R4-C1",
+      "zone": "E",
+      "brand": "neo",
+      "name": "트로피컬 부스트",
+      "price": "4,800",
+      "tone": "e-neo-tropical-boost-row4",
+      "label": "e-row4-tropical",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R4-C2",
+      "zone": "E",
+      "brand": "neo",
+      "name": "쥬시 부스트",
+      "price": "4,800",
+      "tone": "e-neo-juicy-boost",
+      "label": "e-row4-juicy",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R4-C3",
+      "zone": "E",
+      "brand": "neo",
+      "name": "보라보라 클릭",
+      "price": "4,800",
+      "tone": "e-neo-borabora-click",
+      "label": "e-row4-borabora",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R4-C4",
+      "zone": "E",
+      "brand": "neo",
+      "name": "아일랜드 클릭",
+      "price": "4,800",
+      "tone": "e-neo-island-click-row4",
+      "label": "e-row4-island",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-B-R4-C5",
+      "zone": "E",
+      "brand": "neo",
+      "name": "아일랜드 클릭",
+      "price": "4,800",
+      "tone": "e-neo-island-click-row4",
+      "label": "e-row4-island",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R1-C1",
+      "zone": "E",
+      "brand": "SENTIA",
+      "name": "센티아 제스터 레드",
+      "price": "4,500",
+      "tone": "e-sentia-jester-red",
+      "label": "e-sentia-red",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R1-C2",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "티크",
+      "price": "4,800",
+      "tone": "e-terea-teak",
+      "label": "e-terea-brown",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R2-C1",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "스탈링 펄",
+      "price": "4,800",
+      "tone": "e-terea-starling-pearl",
+      "label": "e-terea-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R2-C2",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "아버 펄",
+      "price": "4,800",
+      "tone": "e-terea-arbor-pearl",
+      "label": "e-terea-mauve",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R2-C3",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "러셋",
+      "price": "4,800",
+      "tone": "e-terea-russet",
+      "label": "e-terea-purple",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R3-C1",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "실버",
+      "price": "4,800",
+      "tone": "e-terea-silver",
+      "label": "e-terea-silver-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R3-C2",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "그린",
+      "price": "4,800",
+      "tone": "e-terea-green",
+      "label": "e-terea-green-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R3-C3",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "앰버",
+      "price": "4,800",
+      "tone": "e-terea-amber",
+      "label": "e-terea-amber-label",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R4-C1",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "그린 징",
+      "price": "4,800",
+      "tone": "e-terea-green-zing",
+      "label": "e-terea-cyan",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R4-C2",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "유젠",
+      "price": "4,800",
+      "tone": "e-terea-yugen",
+      "label": "e-terea-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R4-C3",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "썸머 웨이브",
+      "price": "4,800",
+      "tone": "e-terea-summer-wave",
+      "label": "e-terea-summer-blue",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R5-C1",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "오아시스 펄",
+      "price": "4,800",
+      "tone": "e-terea-oasis-pearl",
+      "label": "e-terea-oasis-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R5-C2",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "썬 펄",
+      "price": "4,800",
+      "tone": "e-terea-sun-pearl",
+      "label": "e-terea-sun-pink",
+      "cartridge": false
+    },
+    {
+      "slotId": "E-T-R5-C3",
+      "zone": "E",
+      "brand": "TEREA",
+      "name": "퍼플 웨이브",
+      "price": "4,800",
+      "tone": "e-terea-purple-wave",
+      "label": "e-terea-wave-blue",
+      "cartridge": false
+    }
+  ]
+}

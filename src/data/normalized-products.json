@@ -1,0 +1,8818 @@
+{
+  "generatedAt": "2026-05-17T05:12:42.695Z",
+  "sourceFile": "src/data/tobacco-list.json",
+  "sourceCount": 191,
+  "productCount": 183,
+  "productKeyPolicy": "spokenBrand|coreName|cartridgeType; price excluded",
+  "note": "별칭 스키마 고정. productKey에서 price를 제외하고 exact alias만 자동 생성.",
+  "products": [
+    {
+      "productKey": "네오|다크토바코|normal",
+      "answerIds": [
+        "A-T-R2-C3"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "다크 토바코"
+      ],
+      "coreName": "다크 토바코",
+      "fullName": "네오 다크 토바코",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 다크 토바코"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R2-C3",
+          "zone": "A",
+          "brand": "neo",
+          "name": "다크 토바코",
+          "price": "4,800",
+          "tone": "a-neo-dark-tobacco",
+          "label": "a-neo-brown",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|보라보라클릭|normal",
+      "answerIds": [
+        "E-B-R4-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "보라보라 클릭"
+      ],
+      "coreName": "보라보라 클릭",
+      "fullName": "네오 보라보라 클릭",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 보라보라 클릭"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R4-C3",
+          "zone": "E",
+          "brand": "neo",
+          "name": "보라보라 클릭",
+          "price": "4,800",
+          "tone": "e-neo-borabora-click",
+          "label": "e-row4-borabora",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|부스트|normal",
+      "answerIds": [
+        "A-T-R1-C5"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "부스트"
+      ],
+      "coreName": "부스트",
+      "fullName": "네오 부스트",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 부스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R1-C5",
+          "zone": "A",
+          "brand": "neo",
+          "name": "부스트",
+          "price": "4,800",
+          "tone": "a-neo-boost",
+          "label": "a-neo-deep-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|블러쉬클릭|normal",
+      "answerIds": [
+        "A-T-R1-C2"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "블러쉬 클릭"
+      ],
+      "coreName": "블러쉬 클릭",
+      "fullName": "네오 블러쉬 클릭",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 블러쉬 클릭"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R1-C2",
+          "zone": "A",
+          "brand": "neo",
+          "name": "블러쉬 클릭",
+          "price": "4,800",
+          "tone": "a-neo-blush-click",
+          "label": "a-neo-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|샤인부스트|normal",
+      "answerIds": [
+        "A-T-R1-C4"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "샤인 부스트"
+      ],
+      "coreName": "샤인 부스트",
+      "fullName": "네오 샤인 부스트",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 샤인 부스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R1-C4",
+          "zone": "A",
+          "brand": "neo",
+          "name": "샤인 부스트",
+          "price": "4,800",
+          "tone": "a-neo-shine-boost",
+          "label": "a-neo-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|썬키스클릭|normal",
+      "answerIds": [
+        "A-T-R2-C2"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "썬키스 클릭"
+      ],
+      "coreName": "썬키스 클릭",
+      "fullName": "네오 썬키스 클릭",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 썬키스 클릭"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R2-C2",
+          "zone": "A",
+          "brand": "neo",
+          "name": "썬키스 클릭",
+          "price": "4,800",
+          "tone": "a-neo-sunkiss-cool",
+          "label": "a-neo-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|아일랜드클릭|normal",
+      "answerIds": [
+        "A-T-R1-C1",
+        "E-B-R4-C4",
+        "E-B-R4-C5"
+      ],
+      "zones": [
+        "A",
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "아일랜드 클릭"
+      ],
+      "coreName": "아일랜드 클릭",
+      "fullName": "네오 아일랜드 클릭",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 아일랜드 클릭"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R1-C1",
+          "zone": "A",
+          "brand": "neo",
+          "name": "아일랜드 클릭",
+          "price": "4,800",
+          "tone": "a-neo-island-click",
+          "label": "a-neo-orange",
+          "cartridge": false
+        },
+        {
+          "slotId": "E-B-R4-C4",
+          "zone": "E",
+          "brand": "neo",
+          "name": "아일랜드 클릭",
+          "price": "4,800",
+          "tone": "e-neo-island-click-row4",
+          "label": "e-row4-island",
+          "cartridge": false
+        },
+        {
+          "slotId": "E-B-R4-C5",
+          "zone": "E",
+          "brand": "neo",
+          "name": "아일랜드 클릭",
+          "price": "4,800",
+          "tone": "e-neo-island-click-row4",
+          "label": "e-row4-island",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|쥬시부스트|normal",
+      "answerIds": [
+        "E-B-R4-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "쥬시 부스트"
+      ],
+      "coreName": "쥬시 부스트",
+      "fullName": "네오 쥬시 부스트",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 쥬시 부스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R4-C2",
+          "zone": "E",
+          "brand": "neo",
+          "name": "쥬시 부스트",
+          "price": "4,800",
+          "tone": "e-neo-juicy-boost",
+          "label": "e-row4-juicy",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|토바코스위치|normal",
+      "answerIds": [
+        "A-T-R2-C4"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "토바코 스위치"
+      ],
+      "coreName": "토바코 스위치",
+      "fullName": "네오 토바코 스위치",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 토바코 스위치"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R2-C4",
+          "zone": "A",
+          "brand": "neo",
+          "name": "토바코 스위치",
+          "price": "4,800",
+          "tone": "a-neo-tobacco-switch",
+          "label": "a-neo-sky",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|트로피컬부스트|normal",
+      "answerIds": [
+        "E-B-R4-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "트로피컬 부스트"
+      ],
+      "coreName": "트로피컬 부스트",
+      "fullName": "네오 트로피컬 부스트",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 트로피컬 부스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R4-C1",
+          "zone": "E",
+          "brand": "neo",
+          "name": "트로피컬 부스트",
+          "price": "4,800",
+          "tone": "e-neo-tropical-boost-row4",
+          "label": "e-row4-tropical",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|트로피컬블라스트|normal",
+      "answerIds": [
+        "E-B-R3-C4"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "트로피컬 블라스트"
+      ],
+      "coreName": "트로피컬 블라스트",
+      "fullName": "네오 트로피컬 블라스트",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 트로피컬 블라스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R3-C4",
+          "zone": "E",
+          "brand": "neo",
+          "name": "트로피컬 블라스트",
+          "price": "4,800",
+          "tone": "e-hyper-tropical-blast",
+          "label": "e-hyper-orange",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|퍼플부스트|normal",
+      "answerIds": [
+        "A-T-R1-C3",
+        "E-B-R1-C1"
+      ],
+      "zones": [
+        "A",
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "퍼플부스트",
+        "퍼플 부스트"
+      ],
+      "coreName": "퍼플부스트",
+      "fullName": "네오 퍼플부스트",
+      "price": "4,800 / 4,500",
+      "prices": [
+        "4,500",
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 퍼플부스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R1-C3",
+          "zone": "A",
+          "brand": "neo",
+          "name": "퍼플부스트",
+          "price": "4,800",
+          "tone": "a-neo-purple-boost",
+          "label": "a-neo-purple",
+          "cartridge": false
+        },
+        {
+          "slotId": "E-B-R1-C1",
+          "zone": "E",
+          "brand": "neo",
+          "name": "퍼플 부스트",
+          "price": "4,500",
+          "tone": "e-neo-purple-boost-bottom",
+          "label": "e-bottom-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|프레스코|normal",
+      "answerIds": [
+        "A-T-R2-C5"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "프레스코"
+      ],
+      "coreName": "프레스코",
+      "fullName": "네오 프레스코",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 프레스코"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-T-R2-C5",
+          "zone": "A",
+          "brand": "neo",
+          "name": "프레스코",
+          "price": "4,800",
+          "tone": "a-neo-fresco",
+          "label": "a-neo-sky",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "네오|핑크블라스트|normal",
+      "answerIds": [
+        "E-B-R3-C5"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "neo",
+      "spokenBrand": "네오",
+      "brandAliases": [
+        "네오",
+        "neo",
+        "NEO"
+      ],
+      "nameRawExamples": [
+        "핑크 블라스트"
+      ],
+      "coreName": "핑크 블라스트",
+      "fullName": "네오 핑크 블라스트",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "네오 핑크 블라스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R3-C5",
+          "zone": "E",
+          "brand": "neo",
+          "name": "핑크 블라스트",
+          "price": "4,800",
+          "tone": "e-hyper-pink-blast",
+          "label": "e-hyper-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "더원|블루|normal",
+      "answerIds": [
+        "B-R-B-R3-C7"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "THE ONE",
+      "spokenBrand": "더원",
+      "brandAliases": [
+        "더원",
+        "THE ONE"
+      ],
+      "nameRawExamples": [
+        "더원 블루"
+      ],
+      "coreName": "블루",
+      "fullName": "더원 블루",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "더원 블루"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C7",
+          "zone": "B",
+          "brand": "THE ONE",
+          "name": "더원 블루",
+          "price": "4,500",
+          "tone": "theone-blue-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "더원|오렌지|normal",
+      "answerIds": [
+        "B-R-B-R3-C8"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "THE ONE",
+      "spokenBrand": "더원",
+      "brandAliases": [
+        "더원",
+        "THE ONE"
+      ],
+      "nameRawExamples": [
+        "더원 오렌지"
+      ],
+      "coreName": "오렌지",
+      "fullName": "더원 오렌지",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "더원 오렌지"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C8",
+          "zone": "B",
+          "brand": "THE ONE",
+          "name": "더원 오렌지",
+          "price": "4,500",
+          "tone": "theone-orange-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "더원|체인지|normal",
+      "answerIds": [
+        "B-R-B-R4-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "THE ONE",
+      "spokenBrand": "더원",
+      "brandAliases": [
+        "더원",
+        "THE ONE"
+      ],
+      "nameRawExamples": [
+        "더원 체인지"
+      ],
+      "coreName": "체인지",
+      "fullName": "더원 체인지",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "더원 체인지"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C2",
+          "zone": "B",
+          "brand": "THE ONE",
+          "name": "더원 체인지",
+          "price": "4,300",
+          "tone": "theone-change-w-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "더원|화이트|normal",
+      "answerIds": [
+        "B-R-B-R3-C9"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "THE ONE",
+      "spokenBrand": "더원",
+      "brandAliases": [
+        "더원",
+        "THE ONE"
+      ],
+      "nameRawExamples": [
+        "더원 화이트"
+      ],
+      "coreName": "화이트",
+      "fullName": "더원 화이트",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "더원 화이트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C9",
+          "zone": "B",
+          "brand": "THE ONE",
+          "name": "더원 화이트",
+          "price": "4,500",
+          "tone": "theone-white-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|1mg|normal",
+      "answerIds": [
+        "A-B-R1-C3"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "던힐 1MG"
+      ],
+      "coreName": "1MG",
+      "fullName": "던힐 1MG",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 1MG"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R1-C3",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "던힐 1MG",
+          "price": "4,500",
+          "tone": "a-dunhill-1mg",
+          "label": "a-dunhill-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|3mg|normal",
+      "answerIds": [
+        "A-B-R1-C2"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "던힐 3MG"
+      ],
+      "coreName": "3MG",
+      "fullName": "던힐 3MG",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 3MG"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R1-C2",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "던힐 3MG",
+          "price": "4,500",
+          "tone": "a-dunhill-3mg",
+          "label": "a-dunhill-gold",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|6mg|normal",
+      "answerIds": [
+        "A-B-R1-C1"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "던힐 6MG"
+      ],
+      "coreName": "6MG",
+      "fullName": "던힐 6MG",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 6MG"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R1-C1",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "던힐 6MG",
+          "price": "4,500",
+          "tone": "a-dunhill-6mg",
+          "label": "a-dunhill-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|뉴욕|normal",
+      "answerIds": [
+        "A-B-R2-C2"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "뉴욕"
+      ],
+      "coreName": "뉴욕",
+      "fullName": "던힐 뉴욕",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 뉴욕"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R2-C2",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "뉴욕",
+          "price": "4,500",
+          "tone": "a-dunhill-newyork",
+          "label": "a-editions-gold",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|런던|normal",
+      "answerIds": [
+        "A-B-R2-C1"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "런던"
+      ],
+      "coreName": "런던",
+      "fullName": "던힐 런던",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 런던"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R2-C1",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "런던",
+          "price": "4,500",
+          "tone": "a-dunhill-london",
+          "label": "a-editions-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|레인보우부스트|normal",
+      "answerIds": [
+        "E-B-R1-C5"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "레인보우 부스트"
+      ],
+      "coreName": "레인보우 부스트",
+      "fullName": "던힐 레인보우 부스트",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 레인보우 부스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R1-C5",
+          "zone": "E",
+          "brand": "DUNHILL",
+          "name": "레인보우 부스트",
+          "price": "4,500",
+          "tone": "e-neo-rainbow-boost",
+          "label": "e-bottom-rainbow-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|멜로우크러쉬|normal",
+      "answerIds": [
+        "A-B-R2-C4"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "멜로우 크러쉬"
+      ],
+      "coreName": "멜로우 크러쉬",
+      "fullName": "던힐 멜로우 크러쉬",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 멜로우 크러쉬"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R2-C4",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "멜로우 크러쉬",
+          "price": "4,500",
+          "tone": "a-dunhill-mellow-crush",
+          "label": "a-dunhill-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|스위치6mg|normal",
+      "answerIds": [
+        "E-B-R3-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "던힐 스위치 6MG"
+      ],
+      "coreName": "스위치 6MG",
+      "fullName": "던힐 스위치 6MG",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 스위치 6MG"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R3-C2",
+          "zone": "E",
+          "brand": "DUNHILL",
+          "name": "던힐 스위치 6MG",
+          "price": "4,500",
+          "tone": "e-dunhill-switch-6mg",
+          "label": "e-dunhill-switch-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|스위치one|normal",
+      "answerIds": [
+        "E-B-R3-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "던힐 스위치 ONE"
+      ],
+      "coreName": "스위치 ONE",
+      "fullName": "던힐 스위치 ONE",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 스위치 ONE"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R3-C3",
+          "zone": "E",
+          "brand": "DUNHILL",
+          "name": "던힐 스위치 ONE",
+          "price": "4,500",
+          "tone": "e-dunhill-switch-one",
+          "label": "e-dunhill-switch-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|파리|normal",
+      "answerIds": [
+        "A-B-R2-C3"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "파리"
+      ],
+      "coreName": "파리",
+      "fullName": "던힐 파리",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 파리"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R2-C3",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "파리",
+          "price": "4,500",
+          "tone": "a-dunhill-paris",
+          "label": "a-editions-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|파인컷1mg|normal",
+      "answerIds": [
+        "A-B-R3-C2"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "파인컷 1MG"
+      ],
+      "coreName": "파인컷 1MG",
+      "fullName": "던힐 파인컷 1MG",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 파인컷 1MG"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R3-C2",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "파인컷 1MG",
+          "price": "4,500",
+          "tone": "a-dunhill-finecut-1mg",
+          "label": "a-finecut-gray",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|파인컷수프림|normal",
+      "answerIds": [
+        "A-B-R3-C1"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "파인컷 수프림"
+      ],
+      "coreName": "파인컷 수프림",
+      "fullName": "던힐 파인컷 수프림",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 파인컷 수프림"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R3-C1",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "파인컷 수프림",
+          "price": "4,500",
+          "tone": "a-dunhill-finecut-switch",
+          "label": "a-finecut-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|파인컷스위치one|normal",
+      "answerIds": [
+        "E-B-R2-C5"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "파인컷 스위치 ONE"
+      ],
+      "coreName": "파인컷 스위치 ONE",
+      "fullName": "던힐 파인컷 스위치 ONE",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 파인컷 스위치 ONE"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R2-C5",
+          "zone": "E",
+          "brand": "DUNHILL",
+          "name": "파인컷 스위치 ONE",
+          "price": "4,500",
+          "tone": "e-dunhill-finecut-switch-one",
+          "label": "e-finecut-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|파인컷울트라|normal",
+      "answerIds": [
+        "A-B-R3-C3"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "파인컷 울트라"
+      ],
+      "coreName": "파인컷 울트라",
+      "fullName": "던힐 파인컷 울트라",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 파인컷 울트라"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R3-C3",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "파인컷 울트라",
+          "price": "4,500",
+          "tone": "a-dunhill-finecut-ultra",
+          "label": "a-finecut-brown",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|파인컷프로스트|normal",
+      "answerIds": [
+        "A-B-R3-C4"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "파인컷 프로스트"
+      ],
+      "coreName": "파인컷 프로스트",
+      "fullName": "던힐 파인컷 프로스트",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 파인컷 프로스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R3-C4",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "파인컷 프로스트",
+          "price": "4,500",
+          "tone": "a-dunhill-finecut-frost",
+          "label": "a-finecut-teal",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "던힐|프로스트|normal",
+      "answerIds": [
+        "A-B-R1-C4"
+      ],
+      "zones": [
+        "A"
+      ],
+      "brandRaw": "DUNHILL",
+      "spokenBrand": "던힐",
+      "brandAliases": [
+        "던힐",
+        "DUNHILL"
+      ],
+      "nameRawExamples": [
+        "던힐 프로스트"
+      ],
+      "coreName": "프로스트",
+      "fullName": "던힐 프로스트",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "던힐 프로스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "A-B-R1-C4",
+          "zone": "A",
+          "brand": "DUNHILL",
+          "name": "던힐 프로스트",
+          "price": "4,500",
+          "tone": "a-dunhill-frost",
+          "label": "a-dunhill-teal",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "디스|디스|normal",
+      "answerIds": [
+        "B-R-B-R4-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "THIS",
+      "spokenBrand": "디스",
+      "brandAliases": [
+        "디스",
+        "THIS"
+      ],
+      "nameRawExamples": [
+        "디스"
+      ],
+      "coreName": "디스",
+      "fullName": "디스 디스",
+      "price": "4,000",
+      "prices": [
+        "4,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "디스 디스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C3",
+          "zone": "B",
+          "brand": "THIS",
+          "name": "디스",
+          "price": "4,000",
+          "tone": "this-original-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "디스|플러스|normal",
+      "answerIds": [
+        "B-R-B-R4-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "THIS",
+      "spokenBrand": "디스",
+      "brandAliases": [
+        "디스",
+        "THIS"
+      ],
+      "nameRawExamples": [
+        "디스 플러스"
+      ],
+      "coreName": "플러스",
+      "fullName": "디스 플러스",
+      "price": "4,100",
+      "prices": [
+        "4,100"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "디스 플러스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C4",
+          "zone": "B",
+          "brand": "THIS",
+          "name": "디스 플러스",
+          "price": "4,100",
+          "tone": "this-plus-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "라일락|라일락|normal",
+      "answerIds": [
+        "B-R-B-R4-C8"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "LILAC",
+      "spokenBrand": "라일락",
+      "brandAliases": [
+        "라일락",
+        "LILAC"
+      ],
+      "nameRawExamples": [
+        "라일락"
+      ],
+      "coreName": "라일락",
+      "fullName": "라일락 라일락",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "라일락 라일락"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C8",
+          "zone": "B",
+          "brand": "LILAC",
+          "name": "라일락",
+          "price": "4,500",
+          "tone": "lilac-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "레종|아이오니아레드|normal",
+      "answerIds": [
+        "B-R-T-R5-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "Raison",
+      "spokenBrand": "레종",
+      "brandAliases": [
+        "레종",
+        "Raison",
+        "RAISON"
+      ],
+      "nameRawExamples": [
+        "레종 아이오니아 레드"
+      ],
+      "coreName": "아이오니아 레드",
+      "fullName": "레종 아이오니아 레드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "레종 아이오니아 레드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R5-C5",
+          "zone": "B",
+          "brand": "Raison",
+          "name": "레종 아이오니아 레드",
+          "price": "4,500",
+          "tone": "ionia-coral",
+          "label": "sky-tag",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "레종|아이오니아퍼플|normal",
+      "answerIds": [
+        "B-L-B-R3-C7"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "Raison",
+      "spokenBrand": "레종",
+      "brandAliases": [
+        "레종",
+        "Raison",
+        "RAISON"
+      ],
+      "nameRawExamples": [
+        "레종 아이오니아 퍼플"
+      ],
+      "coreName": "아이오니아 퍼플",
+      "fullName": "레종 아이오니아 퍼플",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "레종 아이오니아 퍼플"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R3-C7",
+          "zone": "B",
+          "brand": "Raison",
+          "name": "레종 아이오니아 퍼플",
+          "price": "4,500",
+          "tone": "raison-ionia-pink",
+          "label": "bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "레종|아이오니아핑크|normal",
+      "answerIds": [
+        "B-L-B-R3-C8"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "Raison",
+      "spokenBrand": "레종",
+      "brandAliases": [
+        "레종",
+        "Raison",
+        "RAISON"
+      ],
+      "nameRawExamples": [
+        "레종 아이오니아 핑크"
+      ],
+      "coreName": "아이오니아 핑크",
+      "fullName": "레종 아이오니아 핑크",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "레종 아이오니아 핑크"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R3-C8",
+          "zone": "B",
+          "brand": "Raison",
+          "name": "레종 아이오니아 핑크",
+          "price": "4,500",
+          "tone": "raison-ionia-blue",
+          "label": "bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "레종|프렌치ice블랑|normal",
+      "answerIds": [
+        "B-L-B-R3-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "Raison",
+      "spokenBrand": "레종",
+      "brandAliases": [
+        "레종",
+        "Raison",
+        "RAISON"
+      ],
+      "nameRawExamples": [
+        "레종 프렌치 ICE블랑"
+      ],
+      "coreName": "프렌치 ICE블랑",
+      "fullName": "레종 프렌치 ICE블랑",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "레종 프렌치 ICE블랑"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R3-C3",
+          "zone": "B",
+          "brand": "Raison",
+          "name": "레종 프렌치 ICE블랑",
+          "price": "4,500",
+          "tone": "raison-french-double",
+          "label": "bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "레종|휘바|normal",
+      "answerIds": [
+        "B-L-B-R4-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "Raison",
+      "spokenBrand": "레종",
+      "brandAliases": [
+        "레종",
+        "Raison",
+        "RAISON"
+      ],
+      "nameRawExamples": [
+        "레종 휘바"
+      ],
+      "coreName": "휘바",
+      "fullName": "레종 휘바",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "레종 휘바"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R4-C6",
+          "zone": "B",
+          "brand": "Raison",
+          "name": "레종 휘바",
+          "price": "4,500",
+          "tone": "blue-hwiba",
+          "label": "bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|골드|normal",
+      "answerIds": [
+        "D-B-R1-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "골드"
+      ],
+      "coreName": "골드",
+      "fullName": "말보로 골드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 골드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R1-C3",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "골드",
+          "price": "4,500",
+          "tone": "d-marlboro-gold",
+          "label": "d-marlboro-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|레드|normal",
+      "answerIds": [
+        "D-B-R1-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "레드"
+      ],
+      "coreName": "레드",
+      "fullName": "말보로 레드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 레드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R1-C1",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "레드",
+          "price": "4,500",
+          "tone": "d-marlboro-red",
+          "label": "d-marlboro-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|미디엄|normal",
+      "answerIds": [
+        "D-B-R1-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "미디엄"
+      ],
+      "coreName": "미디엄",
+      "fullName": "말보로 미디엄",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 미디엄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R1-C2",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "미디엄",
+          "price": "4,500",
+          "tone": "d-marlboro-medium",
+          "label": "d-marlboro-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|비스타|normal",
+      "answerIds": [
+        "D-B-R2-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "비스타"
+      ],
+      "coreName": "비스타",
+      "fullName": "말보로 비스타",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 비스타"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R2-C2",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "비스타",
+          "price": "4,500",
+          "tone": "d-marlboro-vista",
+          "label": "d-vista-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|비스타가든|normal",
+      "answerIds": [
+        "D-B-R2-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "비스타 가든"
+      ],
+      "coreName": "비스타 가든",
+      "fullName": "말보로 비스타 가든",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 비스타 가든"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R2-C3",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "비스타 가든",
+          "price": "4,500",
+          "tone": "d-marlboro-vista-garden",
+          "label": "d-vista-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|비스타블러썸|normal",
+      "answerIds": [
+        "D-B-R2-C4"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "비스타 블러썸"
+      ],
+      "coreName": "비스타 블러썸",
+      "fullName": "말보로 비스타 블러썸",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 비스타 블러썸"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R2-C4",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "비스타 블러썸",
+          "price": "4,500",
+          "tone": "d-marlboro-vista-black",
+          "label": "d-vista-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|비스타썸머|normal",
+      "answerIds": [
+        "D-B-R2-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "비스타 썸머"
+      ],
+      "coreName": "비스타 썸머",
+      "fullName": "말보로 비스타 썸머",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 비스타 썸머"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R2-C1",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "비스타 썸머",
+          "price": "4,500",
+          "tone": "d-marlboro-vista-summer",
+          "label": "d-vista-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|아이스블라스트|normal",
+      "answerIds": [
+        "D-B-R4-C4"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "아이스 블라스트"
+      ],
+      "coreName": "아이스 블라스트",
+      "fullName": "말보로 아이스 블라스트",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 아이스 블라스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R4-C4",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "아이스 블라스트",
+          "price": "4,500",
+          "tone": "d-marlboro-ice-blast",
+          "label": "d-ice-blast-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|하이브리드1|normal",
+      "answerIds": [
+        "D-B-R3-C4"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "말보로 하이브리드 1"
+      ],
+      "coreName": "하이브리드 1",
+      "fullName": "말보로 하이브리드 1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 하이브리드 1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R3-C4",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "말보로 하이브리드 1",
+          "price": "4,500",
+          "tone": "d-marlboro-hybrid-1",
+          "label": "d-hybrid-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|하이브리드5|normal",
+      "answerIds": [
+        "D-B-R3-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "하이브리드 5"
+      ],
+      "coreName": "하이브리드 5",
+      "fullName": "말보로 하이브리드 5",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 하이브리드 5"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R3-C3",
+          "zone": "D",
+          "brand": "Marlboro",
+          "name": "하이브리드 5",
+          "price": "4,500",
+          "tone": "d-marlboro-hybrid-5",
+          "label": "d-hybrid-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "말보로|화이트업|normal",
+      "answerIds": [
+        "E-B-R3-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "Marlboro",
+      "spokenBrand": "말보로",
+      "brandAliases": [
+        "말보로",
+        "마르보로",
+        "Marlboro",
+        "MARLBORO"
+      ],
+      "nameRawExamples": [
+        "화이트 업"
+      ],
+      "coreName": "화이트 업",
+      "fullName": "말보로 화이트 업",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "말보로 화이트 업"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R3-C1",
+          "zone": "E",
+          "brand": "Marlboro",
+          "name": "화이트 업",
+          "price": "4,500",
+          "tone": "e-marlboro-white8",
+          "label": "e-white-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|나이스|normal",
+      "answerIds": [
+        "C-T-R1-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "나이스"
+      ],
+      "coreName": "나이스",
+      "fullName": "메비우스 나이스",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 나이스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-T-R1-C3",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "나이스",
+          "price": "4,500",
+          "tone": "c-lbs-luxter",
+          "label": "c-coral",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|믹스그린|normal",
+      "answerIds": [
+        "C-B-R2-C4"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "믹스 그린"
+      ],
+      "coreName": "믹스 그린",
+      "fullName": "메비우스 믹스 그린",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 믹스 그린"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R2-C4",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "믹스 그린",
+          "price": "4,500",
+          "tone": "c-mix-green",
+          "label": "c-mix-green-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|선셋비치|normal",
+      "answerIds": [
+        "C-T-R1-C1"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "선셋 비치"
+      ],
+      "coreName": "선셋 비치",
+      "fullName": "메비우스 선셋 비치",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 선셋 비치"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-T-R1-C1",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "선셋 비치",
+          "price": "4,500",
+          "tone": "c-sky-beach",
+          "label": "c-yellow-orange",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|스카이블루곽|normal",
+      "answerIds": [
+        "C-B-R2-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "스카이 블루(곽)"
+      ],
+      "coreName": "스카이 블루(곽)",
+      "fullName": "메비우스 스카이 블루(곽)",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 스카이 블루(곽)"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R2-C2",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "스카이 블루(곽)",
+          "price": "4,500",
+          "tone": "c-sky-blue",
+          "label": "c-sky-blue-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|스카이블루롱스|normal",
+      "answerIds": [
+        "C-B-R2-C1"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "스카이 블루(롱스)"
+      ],
+      "coreName": "스카이 블루(롱스)",
+      "fullName": "메비우스 스카이 블루(롱스)",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 스카이 블루(롱스)"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R2-C1",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "스카이 블루(롱스)",
+          "price": "4,500",
+          "tone": "c-sky-blue-longs",
+          "label": "c-sky-blue-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|스카이블루팩|normal",
+      "answerIds": [
+        "C-B-R2-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "스카이 블루(팩)"
+      ],
+      "coreName": "스카이 블루(팩)",
+      "fullName": "메비우스 스카이 블루(팩)",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 스카이 블루(팩)"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R2-C3",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "스카이 블루(팩)",
+          "price": "4,500",
+          "tone": "c-sky-blue-2",
+          "label": "c-sky-blue-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|스파클링듀|normal",
+      "answerIds": [
+        "C-T-R1-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "스파클링 듀"
+      ],
+      "coreName": "스파클링 듀",
+      "fullName": "메비우스 스파클링 듀",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 스파클링 듀"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-T-R1-C2",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "스파클링 듀",
+          "price": "4,500",
+          "tone": "c-spark-5",
+          "label": "c-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|시트로웨이브|normal",
+      "answerIds": [
+        "C-B-R1-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "시트로 웨이브"
+      ],
+      "coreName": "시트로 웨이브",
+      "fullName": "메비우스 시트로 웨이브",
+      "price": "4,600",
+      "prices": [
+        "4,600"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 시트로 웨이브"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R1-C3",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "시트로 웨이브",
+          "price": "4,600",
+          "tone": "c-citro-wave",
+          "label": "c-lbs-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|아이스바나|normal",
+      "answerIds": [
+        "C-B-R4-C1"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "아이스 바나"
+      ],
+      "coreName": "아이스 바나",
+      "fullName": "메비우스 아이스 바나",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 아이스 바나"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R4-C1",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "아이스 바나",
+          "price": "4,500",
+          "tone": "c-ice-berry",
+          "label": "c-lbs-yellow",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|아이스스톰|normal",
+      "answerIds": [
+        "C-B-R3-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "아이스 스톰"
+      ],
+      "coreName": "아이스 스톰",
+      "fullName": "메비우스 아이스 스톰",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 아이스 스톰"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R3-C3",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "아이스 스톰",
+          "price": "4,500",
+          "tone": "c-ice-storm",
+          "label": "c-ice-blue-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|아이스프로스트|normal",
+      "answerIds": [
+        "C-B-R3-C4"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "아이스 프로스트"
+      ],
+      "coreName": "아이스 프로스트",
+      "fullName": "메비우스 아이스 프로스트",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 아이스 프로스트"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R3-C4",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "아이스 프로스트",
+          "price": "4,500",
+          "tone": "c-ice-frost",
+          "label": "c-ice-blue-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|아이스피즈|normal",
+      "answerIds": [
+        "C-B-R1-C4"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "아이스 피즈"
+      ],
+      "coreName": "아이스 피즈",
+      "fullName": "메비우스 아이스 피즈",
+      "price": "4,600",
+      "prices": [
+        "4,600"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 아이스 피즈"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R1-C4",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "아이스 피즈",
+          "price": "4,600",
+          "tone": "c-ice-fizz",
+          "label": "c-lbs-orange",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|옐로우1|normal",
+      "answerIds": [
+        "C-B-R1-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "옐로우 1"
+      ],
+      "coreName": "옐로우 1",
+      "fullName": "메비우스 옐로우 1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 옐로우 1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R1-C2",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "옐로우 1",
+          "price": "4,500",
+          "tone": "c-yellow-1",
+          "label": "c-lbs-yellow",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|옐로우3|normal",
+      "answerIds": [
+        "C-B-R1-C1"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "옐로우 3"
+      ],
+      "coreName": "옐로우 3",
+      "fullName": "메비우스 옐로우 3",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 옐로우 3"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R1-C1",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "옐로우 3",
+          "price": "4,500",
+          "tone": "c-yellow-3",
+          "label": "c-lbs-yellow",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|옐로우수퍼슬림|normal",
+      "answerIds": [
+        "C0-T-R3-C1"
+      ],
+      "zones": [
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "옐로우 수퍼슬림"
+      ],
+      "coreName": "옐로우 수퍼슬림",
+      "fullName": "메비우스 옐로우 수퍼슬림",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 옐로우 수퍼슬림"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C0-T-R3-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "옐로우 수퍼슬림",
+          "price": "4,500",
+          "tone": "c0-mevius-lbs-yellow",
+          "label": "c0-yellow",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|오리지널|normal",
+      "answerIds": [
+        "C0-T-R4-C1"
+      ],
+      "zones": [
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "오리지널"
+      ],
+      "coreName": "오리지널",
+      "fullName": "메비우스 오리지널",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 오리지널"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C0-T-R4-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "오리지널",
+          "price": "4,500",
+          "tone": "c0-mevius-original",
+          "label": "c0-navy",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|원|normal",
+      "answerIds": [
+        "C-B-R3-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "원"
+      ],
+      "coreName": "원",
+      "fullName": "메비우스 원",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 원"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R3-C2",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "원",
+          "price": "4,500",
+          "tone": "c-one",
+          "label": "c-one-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|윈드블루|normal",
+      "answerIds": [
+        "C-B-R3-C1",
+        "C0-T-R5-C1"
+      ],
+      "zones": [
+        "C",
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "윈드블루",
+        "윈드 블루"
+      ],
+      "coreName": "윈드블루",
+      "fullName": "메비우스 윈드블루",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 윈드블루"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R3-C1",
+          "zone": "C",
+          "brand": "MEVIUS",
+          "name": "윈드블루",
+          "price": "4,500",
+          "tone": "c-wind-blue",
+          "label": "c-wind-blue-label",
+          "cartridge": false
+        },
+        {
+          "slotId": "C0-T-R5-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "윈드 블루",
+          "price": "4,500",
+          "tone": "c0-mevius-wind-blue",
+          "label": "c0-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|트로피컬믹스|normal",
+      "answerIds": [
+        "C0-T-R1-C1"
+      ],
+      "zones": [
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "트로피컬 믹스"
+      ],
+      "coreName": "트로피컬 믹스",
+      "fullName": "메비우스 트로피컬 믹스",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 트로피컬 믹스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C0-T-R1-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "트로피컬 믹스",
+          "price": "4,500",
+          "tone": "c0-mevius-tropical-mix",
+          "label": "c0-orange",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|퍼플|normal",
+      "answerIds": [
+        "C0-T-R2-C1"
+      ],
+      "zones": [
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "퍼플"
+      ],
+      "coreName": "퍼플",
+      "fullName": "메비우스 퍼플",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 퍼플"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C0-T-R2-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "퍼플",
+          "price": "4,500",
+          "tone": "c0-mevius-lbs-purple",
+          "label": "c0-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|e스타일3|normal",
+      "answerIds": [
+        "C0-T-R7-C1"
+      ],
+      "zones": [
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "E-스타일 3"
+      ],
+      "coreName": "E-스타일 3",
+      "fullName": "메비우스 E-스타일 3",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 E-스타일 3"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C0-T-R7-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "E-스타일 3",
+          "price": "4,300",
+          "tone": "c0-mevius-estyle3",
+          "label": "c0-estyle-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "메비우스|e스타일6|normal",
+      "answerIds": [
+        "C0-T-R6-C1"
+      ],
+      "zones": [
+        "C0"
+      ],
+      "brandRaw": "MEVIUS",
+      "spokenBrand": "메비우스",
+      "brandAliases": [
+        "메비우스",
+        "뫼비우스",
+        "MEVIUS"
+      ],
+      "nameRawExamples": [
+        "E-스타일 6"
+      ],
+      "coreName": "E-스타일 6",
+      "fullName": "메비우스 E-스타일 6",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "메비우스 E-스타일 6"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C0-T-R6-C1",
+          "zone": "C0",
+          "brand": "MEVIUS",
+          "name": "E-스타일 6",
+          "price": "4,300",
+          "tone": "c0-mevius-estyle6",
+          "label": "c0-estyle-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|??|normal",
+      "answerIds": [
+        "B-R-T-R3-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 ??"
+      ],
+      "coreName": "??",
+      "fullName": "믹스 ??",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 ??"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R3-C3",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 ??",
+          "price": "4,500",
+          "tone": "miix-r3-ice",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|레드썸|normal",
+      "answerIds": [
+        "B-R-T-R2-C2",
+        "B-R-T-R3-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 레드썸"
+      ],
+      "coreName": "레드썸",
+      "fullName": "믹스 레드썸",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 레드썸"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R2-C2",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 레드썸",
+          "price": "4,500",
+          "tone": "miix-red-some",
+          "label": "miix-black",
+          "cartridge": false
+        },
+        {
+          "slotId": "B-R-T-R3-C2",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 레드썸",
+          "price": "4,500",
+          "tone": "miix-r3-red-some",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|믹스|normal",
+      "answerIds": [
+        "B-R-T-R3-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 믹스"
+      ],
+      "coreName": "믹스",
+      "fullName": "믹스 믹스",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 믹스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R3-C4",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 믹스",
+          "price": "4,500",
+          "tone": "miix-r3-mix",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|보나썸|normal",
+      "answerIds": [
+        "B-R-T-R1-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 보나썸"
+      ],
+      "coreName": "보나썸",
+      "fullName": "믹스 보나썸",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 보나썸"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R1-C2",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 보나썸",
+          "price": "4,500",
+          "tone": "miix-bonita",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|블루썸|normal",
+      "answerIds": [
+        "B-R-T-R3-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 블루썸"
+      ],
+      "coreName": "블루썸",
+      "fullName": "믹스 블루썸",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 블루썸"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R3-C5",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 블루썸",
+          "price": "4,500",
+          "tone": "miix-r3-bluesome",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|시가컬렉션|normal",
+      "answerIds": [
+        "B-R-T-R1-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 시가 컬렉션"
+      ],
+      "coreName": "시가 컬렉션",
+      "fullName": "믹스 시가 컬렉션",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 시가 컬렉션"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R1-C1",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 시가 컬렉션",
+          "price": "4,800",
+          "tone": "miix-cigar",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|아이션|normal",
+      "answerIds": [
+        "B-R-T-R2-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 아이션"
+      ],
+      "coreName": "아이션",
+      "fullName": "믹스 아이션",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 아이션"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R2-C6",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 아이션",
+          "price": "4,500",
+          "tone": "miix-ice-unknown",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|아이스|normal",
+      "answerIds": [
+        "B-R-T-R2-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 아이스"
+      ],
+      "coreName": "아이스",
+      "fullName": "믹스 아이스",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 아이스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R2-C3",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 아이스",
+          "price": "4,500",
+          "tone": "miix-ice",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|아이스모아|normal",
+      "answerIds": [
+        "B-R-T-R3-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 아이스 모아"
+      ],
+      "coreName": "아이스 모아",
+      "fullName": "믹스 아이스 모아",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 아이스 모아"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R3-C6",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 아이스 모아",
+          "price": "4,500",
+          "tone": "miix-r3-ice-moa",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|아이스뱅|normal",
+      "answerIds": [
+        "B-R-T-R2-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 아이스 뱅"
+      ],
+      "coreName": "아이스 뱅",
+      "fullName": "믹스 아이스 뱅",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 아이스 뱅"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R2-C5",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 아이스 뱅",
+          "price": "4,500",
+          "tone": "miix-ice-fit",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|아이스더블|normal",
+      "answerIds": [
+        "B-R-T-R2-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 아이스더블"
+      ],
+      "coreName": "아이스더블",
+      "fullName": "믹스 아이스더블",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 아이스더블"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R2-C4",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 아이스더블",
+          "price": "4,500",
+          "tone": "miix-ice-tea",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|업투|normal",
+      "answerIds": [
+        "B-R-T-R1-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 업투"
+      ],
+      "coreName": "업투",
+      "fullName": "믹스 업투",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 업투"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R1-C3",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 업투",
+          "price": "4,500",
+          "tone": "miix-up2",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|콤보|normal",
+      "answerIds": [
+        "B-R-T-R1-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 콤보"
+      ],
+      "coreName": "콤보",
+      "fullName": "믹스 콤보",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 콤보"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R1-C4",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 콤보",
+          "price": "4,500",
+          "tone": "miix-combo",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|클래시|normal",
+      "answerIds": [
+        "B-R-T-R1-C5",
+        "B-R-T-R1-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 클래시"
+      ],
+      "coreName": "클래시",
+      "fullName": "믹스 클래시",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 클래시"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R1-C5",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 클래시",
+          "price": "4,500",
+          "tone": "miix-blue-red",
+          "label": "miix-black",
+          "cartridge": false
+        },
+        {
+          "slotId": "B-R-T-R1-C6",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 클래시",
+          "price": "4,500",
+          "tone": "miix-classy",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "믹스|퍼플썸|normal",
+      "answerIds": [
+        "B-R-T-R2-C1",
+        "B-R-T-R3-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "MIIX",
+      "spokenBrand": "믹스",
+      "brandAliases": [
+        "믹스",
+        "MIIX"
+      ],
+      "nameRawExamples": [
+        "믹스 퍼플썸"
+      ],
+      "coreName": "퍼플썸",
+      "fullName": "믹스 퍼플썸",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "믹스 퍼플썸"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R2-C1",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 퍼플썸",
+          "price": "4,500",
+          "tone": "miix-purple-some",
+          "label": "miix-black",
+          "cartridge": false
+        },
+        {
+          "slotId": "B-R-T-R3-C1",
+          "zone": "B",
+          "brand": "MIIX",
+          "name": "믹스 퍼플썸",
+          "price": "4,500",
+          "tone": "miix-r3-purple-some",
+          "label": "miix-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|슬림핏브라운|normal",
+      "answerIds": [
+        "B-R-B-R3-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 슬림핏 브라운"
+      ],
+      "coreName": "슬림핏 브라운",
+      "fullName": "보헴 슬림핏 브라운",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 슬림핏 브라운"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C2",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 슬림핏 브라운",
+          "price": "4,500",
+          "tone": "bohem-slimfit-brown-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가리브레|normal",
+      "answerIds": [
+        "B-R-B-R3-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 리브레"
+      ],
+      "coreName": "시가 리브레",
+      "fullName": "보헴 시가 리브레",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 리브레"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C5",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 리브레",
+          "price": "4,500",
+          "tone": "bohem-cigar-libre-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가마스터|normal",
+      "answerIds": [
+        "B-R-B-R2-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 마스터"
+      ],
+      "coreName": "시가 마스터",
+      "fullName": "보헴 시가 마스터",
+      "price": "7,000",
+      "prices": [
+        "7,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 마스터"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C3",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 마스터",
+          "price": "7,000",
+          "tone": "bohem-cigar-master-br",
+          "label": "br-bottom-brown",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가미니1|normal",
+      "answerIds": [
+        "B-R-B-R2-C9"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 미니 1"
+      ],
+      "coreName": "시가 미니 1",
+      "fullName": "보헴 시가 미니 1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 미니 1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C9",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 미니 1",
+          "price": "4,500",
+          "tone": "bohem-cigar-mini1-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가미니5|normal",
+      "answerIds": [
+        "B-R-B-R2-C8"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 미니 5"
+      ],
+      "coreName": "시가 미니 5",
+      "fullName": "보헴 시가 미니 5",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 미니 5"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C8",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 미니 5",
+          "price": "4,500",
+          "tone": "bohem-cigar-mini5-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가시그니처|normal",
+      "answerIds": [
+        "B-R-B-R2-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 시그니처"
+      ],
+      "coreName": "시가 시그니처",
+      "fullName": "보헴 시가 시그니처",
+      "price": "10,000",
+      "prices": [
+        "10,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 시그니처"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C4",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 시그니처",
+          "price": "10,000",
+          "tone": "bohem-cigar-mini-jazz-br",
+          "label": "br-bottom-brown",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가아이스핏|normal",
+      "answerIds": [
+        "B-R-B-R3-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 아이스핏"
+      ],
+      "coreName": "시가 아이스핏",
+      "fullName": "보헴 시가 아이스핏",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 아이스핏"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C1",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 아이스핏",
+          "price": "4,500",
+          "tone": "bohem-cigar-icefit-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가카리브|normal",
+      "answerIds": [
+        "B-R-B-R3-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 카리브"
+      ],
+      "coreName": "시가 카리브",
+      "fullName": "보헴 시가 카리브",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 카리브"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C6",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 카리브",
+          "price": "4,500",
+          "tone": "bohem-cigar-caribe-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가no1|normal",
+      "answerIds": [
+        "B-R-B-R2-C7"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 NO.1"
+      ],
+      "coreName": "시가 NO.1",
+      "fullName": "보헴 시가 NO.1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 NO.1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C7",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 NO.1",
+          "price": "4,500",
+          "tone": "bohem-cigar-no1-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가no3|normal",
+      "answerIds": [
+        "B-R-B-R2-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 NO.3"
+      ],
+      "coreName": "시가 NO.3",
+      "fullName": "보헴 시가 NO.3",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 NO.3"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C6",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 NO.3",
+          "price": "4,500",
+          "tone": "bohem-cigar-no3-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시가no6|normal",
+      "answerIds": [
+        "B-R-B-R2-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 시가 NO.6"
+      ],
+      "coreName": "시가 NO.6",
+      "fullName": "보헴 시가 NO.6",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시가 NO.6"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C5",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 시가 NO.6",
+          "price": "4,500",
+          "tone": "bohem-cigar-no6-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|시그니처슈퍼슬램|normal",
+      "answerIds": [
+        "B-R-T-R5-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보햄 시그니처 슈퍼슬램"
+      ],
+      "coreName": "시그니처 슈퍼슬램",
+      "fullName": "보헴 시그니처 슈퍼슬램",
+      "price": "10,000",
+      "prices": [
+        "10,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 시그니처 슈퍼슬램"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R5-C6",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보햄 시그니처 슈퍼슬램",
+          "price": "10,000",
+          "tone": "signature-brown",
+          "label": "brown-tag",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|쿠바나더블|normal",
+      "answerIds": [
+        "B-R-B-R3-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 쿠바나 더블"
+      ],
+      "coreName": "쿠바나 더블",
+      "fullName": "보헴 쿠바나 더블",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 쿠바나 더블"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C4",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 쿠바나 더블",
+          "price": "4,500",
+          "tone": "bohem-cubana-double-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|쿠바나샷|normal",
+      "answerIds": [
+        "B-R-B-R3-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 쿠바나 샷"
+      ],
+      "coreName": "쿠바나 샷",
+      "fullName": "보헴 쿠바나 샷",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 쿠바나 샷"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R3-C3",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 쿠바나 샷",
+          "price": "4,500",
+          "tone": "bohem-cubana-shot-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "보헴|파이프스코티|normal",
+      "answerIds": [
+        "B-R-B-R4-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "BOHEM",
+      "spokenBrand": "보헴",
+      "brandAliases": [
+        "보헴",
+        "보햄",
+        "BOHEM"
+      ],
+      "nameRawExamples": [
+        "보헴 파이프 스코티"
+      ],
+      "coreName": "파이프 스코티",
+      "fullName": "보헴 파이프 스코티",
+      "price": "5,000",
+      "prices": [
+        "5,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "보헴 파이프 스코티"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C1",
+          "zone": "B",
+          "brand": "BOHEM",
+          "name": "보헴 파이프 스코티",
+          "price": "5,000",
+          "tone": "bohem-pipe-scotch-w-br",
+          "label": "br-bottom-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "뷰즈|루비스파크|normal",
+      "answerIds": [
+        "E-B-R1-C4"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "VUSE",
+      "spokenBrand": "뷰즈",
+      "brandAliases": [
+        "뷰즈",
+        "VUSE"
+      ],
+      "nameRawExamples": [
+        "루비 스파크"
+      ],
+      "coreName": "루비 스파크",
+      "fullName": "뷰즈 루비 스파크",
+      "price": "10,000",
+      "prices": [
+        "10,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "뷰즈 루비 스파크"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R1-C4",
+          "zone": "E",
+          "brand": "VUSE",
+          "name": "루비 스파크",
+          "price": "10,000",
+          "tone": "e-vuse-ruby-spark",
+          "label": "e-bottom-vuse-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "뷰즈|트로피컬믹스|normal",
+      "answerIds": [
+        "E-B-R1-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "VUSE",
+      "spokenBrand": "뷰즈",
+      "brandAliases": [
+        "뷰즈",
+        "VUSE"
+      ],
+      "nameRawExamples": [
+        "트로피컬 믹스"
+      ],
+      "coreName": "트로피컬 믹스",
+      "fullName": "뷰즈 트로피컬 믹스",
+      "price": "10,000",
+      "prices": [
+        "10,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "뷰즈 트로피컬 믹스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R1-C3",
+          "zone": "E",
+          "brand": "VUSE",
+          "name": "트로피컬 믹스",
+          "price": "10,000",
+          "tone": "e-vuse-tropical-mix",
+          "label": "e-bottom-vuse-gold",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "뷰즈|퍼플프레시6ml|normal",
+      "answerIds": [
+        "E-B-R1-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "VUSE",
+      "spokenBrand": "뷰즈",
+      "brandAliases": [
+        "뷰즈",
+        "VUSE"
+      ],
+      "nameRawExamples": [
+        "퍼플 프레시 6ML"
+      ],
+      "coreName": "퍼플 프레시 6ML",
+      "fullName": "뷰즈 퍼플 프레시 6ML",
+      "price": "25,000",
+      "prices": [
+        "25,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "뷰즈 퍼플 프레시 6ML"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R1-C2",
+          "zone": "E",
+          "brand": "VUSE",
+          "name": "퍼플 프레시 6ML",
+          "price": "25,000",
+          "tone": "e-vuse-purple-fresh-6ml",
+          "label": "e-bottom-vuse-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "센티아|골드|normal",
+      "answerIds": [
+        "D-T-R3-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "SENTIA",
+      "spokenBrand": "센티아",
+      "brandAliases": [
+        "센티아",
+        "SENTIA"
+      ],
+      "nameRawExamples": [
+        "센티아 골드"
+      ],
+      "coreName": "골드",
+      "fullName": "센티아 골드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "센티아 골드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R3-C1",
+          "zone": "D",
+          "brand": "SENTIA",
+          "name": "센티아 골드",
+          "price": "4,500",
+          "tone": "d-sentia-gold",
+          "label": "d-sentia-gold",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "센티아|다크그린|normal",
+      "answerIds": [
+        "D-T-R3-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "SENTIA",
+      "spokenBrand": "센티아",
+      "brandAliases": [
+        "센티아",
+        "SENTIA"
+      ],
+      "nameRawExamples": [
+        "센티아 다크 그린"
+      ],
+      "coreName": "다크 그린",
+      "fullName": "센티아 다크 그린",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "센티아 다크 그린"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R3-C3",
+          "zone": "D",
+          "brand": "SENTIA",
+          "name": "센티아 다크 그린",
+          "price": "4,500",
+          "tone": "d-sentia-dark-green",
+          "label": "d-sentia-dark-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "센티아|실버|normal",
+      "answerIds": [
+        "D-T-R3-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "SENTIA",
+      "spokenBrand": "센티아",
+      "brandAliases": [
+        "센티아",
+        "SENTIA"
+      ],
+      "nameRawExamples": [
+        "센티아 실버"
+      ],
+      "coreName": "실버",
+      "fullName": "센티아 실버",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "센티아 실버"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R3-C2",
+          "zone": "D",
+          "brand": "SENTIA",
+          "name": "센티아 실버",
+          "price": "4,500",
+          "tone": "d-sentia-silver",
+          "label": "d-sentia-silver",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "센티아|제스터레드|normal",
+      "answerIds": [
+        "E-T-R1-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "SENTIA",
+      "spokenBrand": "센티아",
+      "brandAliases": [
+        "센티아",
+        "SENTIA"
+      ],
+      "nameRawExamples": [
+        "센티아 제스터 레드"
+      ],
+      "coreName": "제스터 레드",
+      "fullName": "센티아 제스터 레드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "센티아 제스터 레드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R1-C1",
+          "zone": "E",
+          "brand": "SENTIA",
+          "name": "센티아 제스터 레드",
+          "price": "4,500",
+          "tone": "e-sentia-jester-red",
+          "label": "e-sentia-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "심플|에이스1|normal",
+      "answerIds": [
+        "B-R-B-R4-C7"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "simple",
+      "spokenBrand": "심플",
+      "brandAliases": [
+        "심플",
+        "simple",
+        "SIMPLE"
+      ],
+      "nameRawExamples": [
+        "심플 에이스 1"
+      ],
+      "coreName": "에이스 1",
+      "fullName": "심플 에이스 1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "심플 에이스 1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C7",
+          "zone": "B",
+          "brand": "simple",
+          "name": "심플 에이스 1",
+          "price": "4,500",
+          "tone": "simple-ace1-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "심플|클래식|normal",
+      "answerIds": [
+        "B-R-B-R4-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "simple",
+      "spokenBrand": "심플",
+      "brandAliases": [
+        "심플",
+        "simple",
+        "SIMPLE"
+      ],
+      "nameRawExamples": [
+        "심플 클래식"
+      ],
+      "coreName": "클래식",
+      "fullName": "심플 클래식",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "심플 클래식"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C6",
+          "zone": "B",
+          "brand": "simple",
+          "name": "심플 클래식",
+          "price": "4,500",
+          "tone": "simple-classic-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "아프리카|룰라|normal",
+      "answerIds": [
+        "B-L-B-R4-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "AFRICA",
+      "spokenBrand": "아프리카",
+      "brandAliases": [
+        "아프리카",
+        "AFRICA"
+      ],
+      "nameRawExamples": [
+        "아프리카 룰라"
+      ],
+      "coreName": "룰라",
+      "fullName": "아프리카 룰라",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "아프리카 룰라"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R4-C1",
+          "zone": "B",
+          "brand": "AFRICA",
+          "name": "아프리카 룰라",
+          "price": "4,500",
+          "tone": "africa-mola",
+          "label": "bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "아프리카|몰라|normal",
+      "answerIds": [
+        "B-L-B-R4-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "AFRICA",
+      "spokenBrand": "아프리카",
+      "brandAliases": [
+        "아프리카",
+        "AFRICA"
+      ],
+      "nameRawExamples": [
+        "아프리카 몰라"
+      ],
+      "coreName": "몰라",
+      "fullName": "아프리카 몰라",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "아프리카 몰라"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R4-C2",
+          "zone": "B",
+          "brand": "AFRICA",
+          "name": "아프리카 몰라",
+          "price": "4,500",
+          "tone": "africa-rula",
+          "label": "bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|그린옵션|normal",
+      "answerIds": [
+        "C-E-R1-C4"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보그린옵션"
+      ],
+      "coreName": "그린옵션",
+      "fullName": "에보 그린옵션",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 그린옵션"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R1-C4",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보그린옵션",
+          "price": "4,500",
+          "tone": "c-evo-green-option",
+          "label": "c-evo-teal",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|마젠타|normal",
+      "answerIds": [
+        "C-E-R2-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보 마젠타"
+      ],
+      "coreName": "마젠타",
+      "fullName": "에보 마젠타",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 마젠타"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R2-C2",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보 마젠타",
+          "price": "4,500",
+          "tone": "c-evo-magenta",
+          "label": "c-evo-magenta",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|베이즈옵션|normal",
+      "answerIds": [
+        "C-E-R1-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보베이즈옵션"
+      ],
+      "coreName": "베이즈옵션",
+      "fullName": "에보 베이즈옵션",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 베이즈옵션"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R1-C3",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보베이즈옵션",
+          "price": "4,500",
+          "tone": "c-evo-beige-option",
+          "label": "c-evo-olive",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|아틱|normal",
+      "answerIds": [
+        "C-E-R1-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보 아틱"
+      ],
+      "coreName": "아틱",
+      "fullName": "에보 아틱",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 아틱"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R1-C2",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보 아틱",
+          "price": "4,500",
+          "tone": "c-evo-arctic",
+          "label": "c-evo-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|엠버|normal",
+      "answerIds": [
+        "C-E-R1-C1"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보 엠버"
+      ],
+      "coreName": "엠버",
+      "fullName": "에보 엠버",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 엠버"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R1-C1",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보 엠버",
+          "price": "4,500",
+          "tone": "c-evo-amber",
+          "label": "c-evo-orange",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|제이드|normal",
+      "answerIds": [
+        "C-E-R2-C1"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보 제이드"
+      ],
+      "coreName": "제이드",
+      "fullName": "에보 제이드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 제이드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R2-C1",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보 제이드",
+          "price": "4,500",
+          "tone": "c-evo-jade",
+          "label": "c-evo-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|퍼플옵션|normal",
+      "answerIds": [
+        "C-E-R2-C4"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보퍼플옵션"
+      ],
+      "coreName": "퍼플옵션",
+      "fullName": "에보 퍼플옵션",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 퍼플옵션"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R2-C4",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보퍼플옵션",
+          "price": "4,500",
+          "tone": "c-evo-purple-option",
+          "label": "c-evo-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에보|핑크옵션|normal",
+      "answerIds": [
+        "C-E-R2-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "evo",
+      "spokenBrand": "에보",
+      "brandAliases": [
+        "에보",
+        "evo",
+        "EVO"
+      ],
+      "nameRawExamples": [
+        "에보핑크옵션"
+      ],
+      "coreName": "핑크옵션",
+      "fullName": "에보 핑크옵션",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에보 핑크옵션"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-E-R2-C3",
+          "zone": "C",
+          "brand": "evo",
+          "name": "에보핑크옵션",
+          "price": "4,500",
+          "tone": "c-evo-pink-option",
+          "label": "c-evo-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|느와르|normal",
+      "answerIds": [
+        "B-R-B-R2-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 느와르"
+      ],
+      "coreName": "느와르",
+      "fullName": "에쎄 느와르",
+      "price": "5,000",
+      "prices": [
+        "5,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 느와르"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C1",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 느와르",
+          "price": "5,000",
+          "tone": "esse-noir-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|스페셜골드|normal",
+      "answerIds": [
+        "B-L-B-R1-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 스페셜골드"
+      ],
+      "coreName": "스페셜골드",
+      "fullName": "에쎄 스페셜골드",
+      "price": "5,000",
+      "prices": [
+        "5,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 스페셜골드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R1-C5",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 스페셜골드",
+          "price": "5,000",
+          "tone": "esse-special-gold",
+          "label": "bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|스페셜골드05|normal",
+      "answerIds": [
+        "B-L-B-R1-C7"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 스페셜골드 0.5"
+      ],
+      "coreName": "스페셜골드 0.5",
+      "fullName": "에쎄 스페셜골드 0.5",
+      "price": "5,000",
+      "prices": [
+        "5,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 스페셜골드 0.5"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R1-C7",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 스페셜골드 0.5",
+          "price": "5,000",
+          "tone": "esse-special-gold-05",
+          "label": "bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|스페셜골드1|normal",
+      "answerIds": [
+        "B-L-B-R1-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 스페셜골드 1"
+      ],
+      "coreName": "스페셜골드 1",
+      "fullName": "에쎄 스페셜골드 1",
+      "price": "5,000",
+      "prices": [
+        "5,000"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 스페셜골드 1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R1-C6",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 스페셜골드 1",
+          "price": "5,000",
+          "tone": "esse-special-gold-1",
+          "label": "bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지|normal",
+      "answerIds": [
+        "B-R-B-R1-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지"
+      ],
+      "coreName": "체인지",
+      "fullName": "에쎄 체인지",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C4",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지",
+          "price": "4,500",
+          "tone": "esse-change-one-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지4|normal",
+      "answerIds": [
+        "B-R-B-R1-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지 4"
+      ],
+      "coreName": "체인지 4",
+      "fullName": "에쎄 체인지 4",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지 4"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C5",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지 4",
+          "price": "4,500",
+          "tone": "esse-change-4-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지빙|normal",
+      "answerIds": [
+        "B-R-B-R1-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지 빙"
+      ],
+      "coreName": "체인지 빙",
+      "fullName": "에쎄 체인지 빙",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지 빙"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C3",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지 빙",
+          "price": "4,500",
+          "tone": "esse-change-bing-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지슈팅레드|normal",
+      "answerIds": [
+        "B-R-B-R1-C9"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지 슈팅레드"
+      ],
+      "coreName": "체인지 슈팅레드",
+      "fullName": "에쎄 체인지 슈팅레드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지 슈팅레드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C9",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지 슈팅레드",
+          "price": "4,500",
+          "tone": "esse-change-shootingstar-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지업|normal",
+      "answerIds": [
+        "B-R-B-R1-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지 업"
+      ],
+      "coreName": "체인지 업",
+      "fullName": "에쎄 체인지 업",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지 업"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C2",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지 업",
+          "price": "4,500",
+          "tone": "esse-change-up-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지프로즌|normal",
+      "answerIds": [
+        "B-R-B-R1-C6"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지 프로즌"
+      ],
+      "coreName": "체인지 프로즌",
+      "fullName": "에쎄 체인지 프로즌",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지 프로즌"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C6",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지 프로즌",
+          "price": "4,500",
+          "tone": "esse-change-frozen-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지w|normal",
+      "answerIds": [
+        "B-R-B-R1-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지 W"
+      ],
+      "coreName": "체인지 W",
+      "fullName": "에쎄 체인지 W",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지 W"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C1",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지 W",
+          "price": "4,500",
+          "tone": "esse-change-w",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|체인지썬|normal",
+      "answerIds": [
+        "B-R-B-R2-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 체인지썬"
+      ],
+      "coreName": "체인지썬",
+      "fullName": "에쎄 체인지썬",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 체인지썬"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R2-C2",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 체인지썬",
+          "price": "4,500",
+          "tone": "esse-change-sun-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|프레쏘|normal",
+      "answerIds": [
+        "B-L-B-R2-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 프레쏘"
+      ],
+      "coreName": "프레쏘",
+      "fullName": "에쎄 프레쏘",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 프레쏘"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-B-R2-C5",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 프레쏘",
+          "price": "4,500",
+          "tone": "esse-prime",
+          "label": "bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|히말라야1mg|normal",
+      "answerIds": [
+        "B-R-B-R1-C7"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 히말라야 1mg"
+      ],
+      "coreName": "히말라야 1mg",
+      "fullName": "에쎄 히말라야 1mg",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 히말라야 1mg"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C7",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 히말라야 1mg",
+          "price": "4,500",
+          "tone": "esse-himalaya-1mg-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|히말라야샤인|normal",
+      "answerIds": [
+        "B-R-T-R5-C1",
+        "B-R-T-R5-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "히말라야 샤인"
+      ],
+      "coreName": "히말라야 샤인",
+      "fullName": "에쎄 히말라야 샤인",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 히말라야 샤인"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R5-C1",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "히말라야 샤인",
+          "price": "4,500",
+          "tone": "himalaya-teal",
+          "label": "mint-tag",
+          "cartridge": false
+        },
+        {
+          "slotId": "B-R-T-R5-C2",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "히말라야 샤인",
+          "price": "4,500",
+          "tone": "himalaya-teal",
+          "label": "mint-tag",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에쎄|히말라야윈터|normal",
+      "answerIds": [
+        "B-R-B-R1-C8"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "ESSE",
+      "spokenBrand": "에쎄",
+      "brandAliases": [
+        "에쎄",
+        "ESSE"
+      ],
+      "nameRawExamples": [
+        "에쎄 히말라야 윈터"
+      ],
+      "coreName": "히말라야 윈터",
+      "fullName": "에쎄 히말라야 윈터",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에쎄 히말라야 윈터"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R1-C8",
+          "zone": "B",
+          "brand": "ESSE",
+          "name": "에쎄 히말라야 윈터",
+          "price": "4,500",
+          "tone": "esse-himalaya-winter-br",
+          "label": "br-bottom-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에임|시가러쉬|normal",
+      "answerIds": [
+        "B-L-T-R2-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "GRANULAR",
+      "spokenBrand": "에임",
+      "brandAliases": [
+        "에임",
+        "GRANULAR"
+      ],
+      "nameRawExamples": [
+        "에임 시가러쉬"
+      ],
+      "coreName": "시가러쉬",
+      "fullName": "에임 시가러쉬",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에임 시가러쉬"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R2-C1",
+          "zone": "B",
+          "brand": "GRANULAR",
+          "name": "에임 시가러쉬",
+          "price": "4,800",
+          "tone": "aim-rush",
+          "label": "aim-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에임|아이스러쉬|normal",
+      "answerIds": [
+        "B-L-T-R3-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "GRANULAR",
+      "spokenBrand": "에임",
+      "brandAliases": [
+        "에임",
+        "GRANULAR"
+      ],
+      "nameRawExamples": [
+        "에임 아이스 러쉬"
+      ],
+      "coreName": "아이스 러쉬",
+      "fullName": "에임 아이스 러쉬",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에임 아이스 러쉬"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R3-C1",
+          "zone": "B",
+          "brand": "GRANULAR",
+          "name": "에임 아이스 러쉬",
+          "price": "4,800",
+          "tone": "aim3-rush",
+          "label": "aim-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에임|체인지업|normal",
+      "answerIds": [
+        "B-L-T-R5-C1"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "AIM",
+      "spokenBrand": "에임",
+      "brandAliases": [
+        "에임",
+        "AIM"
+      ],
+      "nameRawExamples": [
+        "에임 체인지 업"
+      ],
+      "coreName": "체인지 업",
+      "fullName": "에임 체인지 업",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에임 체인지 업"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R5-C1",
+          "zone": "B",
+          "brand": "AIM",
+          "name": "에임 체인지 업",
+          "price": "4,800",
+          "tone": "aim5-blooming",
+          "label": "aim-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에임|쿨샷|normal",
+      "answerIds": [
+        "B-L-T-R4-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "AIM",
+      "spokenBrand": "에임",
+      "brandAliases": [
+        "에임",
+        "AIM"
+      ],
+      "nameRawExamples": [
+        "에임 쿨 샷"
+      ],
+      "coreName": "쿨 샷",
+      "fullName": "에임 쿨 샷",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에임 쿨 샷"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R4-C2",
+          "zone": "B",
+          "brand": "AIM",
+          "name": "에임 쿨 샷",
+          "price": "4,800",
+          "tone": "aim4-tempgreen",
+          "label": "aim-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에임|탱고|normal",
+      "answerIds": [
+        "B-L-T-R3-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "VAPOR STICK",
+      "spokenBrand": "에임",
+      "brandAliases": [
+        "에임",
+        "VAPOR STICK"
+      ],
+      "nameRawExamples": [
+        "에임 탱고"
+      ],
+      "coreName": "탱고",
+      "fullName": "에임 탱고",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에임 탱고"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R3-C4",
+          "zone": "B",
+          "brand": "VAPOR STICK",
+          "name": "에임 탱고",
+          "price": "4,800",
+          "tone": "aim3-mango",
+          "label": "aim-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "에임|헤이즈|normal",
+      "answerIds": [
+        "B-L-T-R5-C2"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "GRANULAR",
+      "spokenBrand": "에임",
+      "brandAliases": [
+        "에임",
+        "GRANULAR"
+      ],
+      "nameRawExamples": [
+        "에임 헤이즈"
+      ],
+      "coreName": "헤이즈",
+      "fullName": "에임 헤이즈",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "에임 헤이즈"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R5-C2",
+          "zone": "B",
+          "brand": "GRANULAR",
+          "name": "에임 헤이즈",
+          "price": "4,800",
+          "tone": "aim5-base",
+          "label": "aim-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "카멜|블루5|normal",
+      "answerIds": [
+        "C-B-R4-C4"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "CAMEL",
+      "spokenBrand": "카멜",
+      "brandAliases": [
+        "카멜",
+        "CAMEL"
+      ],
+      "nameRawExamples": [
+        "카멜 블루 5"
+      ],
+      "coreName": "블루 5",
+      "fullName": "카멜 블루 5",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "카멜 블루 5"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R4-C4",
+          "zone": "C",
+          "brand": "CAMEL",
+          "name": "카멜 블루 5",
+          "price": "4,300",
+          "tone": "c-camel-filter-5",
+          "label": "c-camel-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "카멜|파라다이스|normal",
+      "answerIds": [
+        "C-B-R4-C2"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "CAMEL",
+      "spokenBrand": "카멜",
+      "brandAliases": [
+        "카멜",
+        "CAMEL"
+      ],
+      "nameRawExamples": [
+        "카멜 파라다이스"
+      ],
+      "coreName": "파라다이스",
+      "fullName": "카멜 파라다이스",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "카멜 파라다이스"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R4-C2",
+          "zone": "C",
+          "brand": "CAMEL",
+          "name": "카멜 파라다이스",
+          "price": "4,300",
+          "tone": "c-camel-paradise",
+          "label": "c-camel-red",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "카멜|필터8|normal",
+      "answerIds": [
+        "C-B-R4-C3"
+      ],
+      "zones": [
+        "C"
+      ],
+      "brandRaw": "CAMEL",
+      "spokenBrand": "카멜",
+      "brandAliases": [
+        "카멜",
+        "CAMEL"
+      ],
+      "nameRawExamples": [
+        "카멜 필터 8"
+      ],
+      "coreName": "필터 8",
+      "fullName": "카멜 필터 8",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "카멜 필터 8"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "C-B-R4-C3",
+          "zone": "C",
+          "brand": "CAMEL",
+          "name": "카멜 필터 8",
+          "price": "4,300",
+          "tone": "c-camel-filter-8",
+          "label": "c-camel-gold",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "켄트|05mg|normal",
+      "answerIds": [
+        "E-B-R2-C4"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "KENT",
+      "spokenBrand": "켄트",
+      "brandAliases": [
+        "켄트",
+        "KENT"
+      ],
+      "nameRawExamples": [
+        "켄트 0.5MG"
+      ],
+      "coreName": "0.5MG",
+      "fullName": "켄트 0.5MG",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "켄트 0.5MG"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R2-C4",
+          "zone": "E",
+          "brand": "KENT",
+          "name": "켄트 0.5MG",
+          "price": "4,500",
+          "tone": "e-kent-05mg",
+          "label": "e-kent-gold",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "켄트|스위치1|normal",
+      "answerIds": [
+        "E-B-R2-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "KENT",
+      "spokenBrand": "켄트",
+      "brandAliases": [
+        "켄트",
+        "KENT"
+      ],
+      "nameRawExamples": [
+        "켄트 스위치1"
+      ],
+      "coreName": "스위치1",
+      "fullName": "켄트 스위치1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "켄트 스위치1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R2-C2",
+          "zone": "E",
+          "brand": "KENT",
+          "name": "켄트 스위치1",
+          "price": "4,500",
+          "tone": "e-kent-switch1",
+          "label": "e-kent-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "켄트|퍼플1|normal",
+      "answerIds": [
+        "E-B-R2-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "KENT",
+      "spokenBrand": "켄트",
+      "brandAliases": [
+        "켄트",
+        "KENT"
+      ],
+      "nameRawExamples": [
+        "켄트 퍼플1"
+      ],
+      "coreName": "퍼플1",
+      "fullName": "켄트 퍼플1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "켄트 퍼플1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R2-C3",
+          "zone": "E",
+          "brand": "KENT",
+          "name": "켄트 퍼플1",
+          "price": "4,500",
+          "tone": "e-kent-purple1",
+          "label": "e-kent-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "켄트|화이트1|normal",
+      "answerIds": [
+        "E-B-R2-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "KENT",
+      "spokenBrand": "켄트",
+      "brandAliases": [
+        "켄트",
+        "KENT"
+      ],
+      "nameRawExamples": [
+        "켄트 화이트1"
+      ],
+      "coreName": "화이트1",
+      "fullName": "켄트 화이트1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "켄트 화이트1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-B-R2-C1",
+          "zone": "E",
+          "brand": "KENT",
+          "name": "켄트 화이트1",
+          "price": "4,500",
+          "tone": "e-kent-white1",
+          "label": "e-kent-silver",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "타임|미드|normal",
+      "answerIds": [
+        "B-R-B-R4-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "TIME",
+      "spokenBrand": "타임",
+      "brandAliases": [
+        "타임",
+        "TIME"
+      ],
+      "nameRawExamples": [
+        "타임 미드"
+      ],
+      "coreName": "미드",
+      "fullName": "타임 미드",
+      "price": "4,300",
+      "prices": [
+        "4,300"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "타임 미드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C5",
+          "zone": "B",
+          "brand": "TIME",
+          "name": "타임 미드",
+          "price": "4,300",
+          "tone": "time-mid-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|그린|normal",
+      "answerIds": [
+        "E-T-R3-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "그린"
+      ],
+      "coreName": "그린",
+      "fullName": "테리아 그린",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 그린"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R3-C2",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "그린",
+          "price": "4,800",
+          "tone": "e-terea-green",
+          "label": "e-terea-green-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|그린징|normal",
+      "answerIds": [
+        "E-T-R4-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "그린 징"
+      ],
+      "coreName": "그린 징",
+      "fullName": "테리아 그린 징",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 그린 징"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R4-C1",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "그린 징",
+          "price": "4,800",
+          "tone": "e-terea-green-zing",
+          "label": "e-terea-cyan",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|러셋|normal",
+      "answerIds": [
+        "E-T-R2-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "러셋"
+      ],
+      "coreName": "러셋",
+      "fullName": "테리아 러셋",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 러셋"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R2-C3",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "러셋",
+          "price": "4,800",
+          "tone": "e-terea-russet",
+          "label": "e-terea-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|리비에라펄|normal",
+      "answerIds": [
+        "D-T-R1-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "리비에라 펄"
+      ],
+      "coreName": "리비에라 펄",
+      "fullName": "테리아 리비에라 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 리비에라 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R1-C3",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "리비에라 펄",
+          "price": "4,800",
+          "tone": "d-terea-riviera-pearl",
+          "label": "d-terea-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|블랙그린|normal",
+      "answerIds": [
+        "D-T-R2-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "블랙 그린"
+      ],
+      "coreName": "블랙 그린",
+      "fullName": "테리아 블랙 그린",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 블랙 그린"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R2-C2",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "블랙 그린",
+          "price": "4,800",
+          "tone": "d-terea-black-green",
+          "label": "d-terea-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|블랙루비|normal",
+      "answerIds": [
+        "D-B-R1-C4"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "블랙 루비"
+      ],
+      "coreName": "블랙 루비",
+      "fullName": "테리아 블랙 루비",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 블랙 루비"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R1-C4",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "블랙 루비",
+          "price": "4,800",
+          "tone": "d-terea-black-ruby",
+          "label": "d-terea-sky",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|블랙퍼플|normal",
+      "answerIds": [
+        "D-T-R2-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "블랙 퍼플"
+      ],
+      "coreName": "블랙 퍼플",
+      "fullName": "테리아 블랙 퍼플",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 블랙 퍼플"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R2-C3",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "블랙 퍼플",
+          "price": "4,800",
+          "tone": "d-terea-black-purple",
+          "label": "d-terea-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|블루|normal",
+      "answerIds": [
+        "D-T-R2-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "블루"
+      ],
+      "coreName": "블루",
+      "fullName": "테리아 블루",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 블루"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R2-C1",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "블루",
+          "price": "4,800",
+          "tone": "d-terea-blue",
+          "label": "d-terea-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|샤인펄|normal",
+      "answerIds": [
+        "D-T-R1-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "샤인 펄"
+      ],
+      "coreName": "샤인 펄",
+      "fullName": "테리아 샤인 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 샤인 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R1-C1",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "샤인 펄",
+          "price": "4,800",
+          "tone": "d-terea-siwon-pearl",
+          "label": "d-terea-green",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|스탈링펄|normal",
+      "answerIds": [
+        "E-T-R2-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "스탈링 펄"
+      ],
+      "coreName": "스탈링 펄",
+      "fullName": "테리아 스탈링 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 스탈링 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R2-C1",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "스탈링 펄",
+          "price": "4,800",
+          "tone": "e-terea-starling-pearl",
+          "label": "e-terea-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|실버|normal",
+      "answerIds": [
+        "E-T-R3-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "실버"
+      ],
+      "coreName": "실버",
+      "fullName": "테리아 실버",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 실버"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R3-C1",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "실버",
+          "price": "4,800",
+          "tone": "e-terea-silver",
+          "label": "e-terea-silver-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|썬펄|normal",
+      "answerIds": [
+        "E-T-R5-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "썬 펄"
+      ],
+      "coreName": "썬 펄",
+      "fullName": "테리아 썬 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 썬 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R5-C2",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "썬 펄",
+          "price": "4,800",
+          "tone": "e-terea-sun-pearl",
+          "label": "e-terea-sun-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|썸머웨이브|normal",
+      "answerIds": [
+        "E-T-R4-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "썸머 웨이브"
+      ],
+      "coreName": "썸머 웨이브",
+      "fullName": "테리아 썸머 웨이브",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 썸머 웨이브"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R4-C3",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "썸머 웨이브",
+          "price": "4,800",
+          "tone": "e-terea-summer-wave",
+          "label": "e-terea-summer-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|아버펄|normal",
+      "answerIds": [
+        "E-T-R2-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "아버 펄"
+      ],
+      "coreName": "아버 펄",
+      "fullName": "테리아 아버 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 아버 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R2-C2",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "아버 펄",
+          "price": "4,800",
+          "tone": "e-terea-arbor-pearl",
+          "label": "e-terea-mauve",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|앰버|normal",
+      "answerIds": [
+        "E-T-R3-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "앰버"
+      ],
+      "coreName": "앰버",
+      "fullName": "테리아 앰버",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 앰버"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R3-C3",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "앰버",
+          "price": "4,800",
+          "tone": "e-terea-amber",
+          "label": "e-terea-amber-label",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|오아시스펄|normal",
+      "answerIds": [
+        "E-T-R5-C1"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "오아시스 펄"
+      ],
+      "coreName": "오아시스 펄",
+      "fullName": "테리아 오아시스 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 오아시스 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R5-C1",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "오아시스 펄",
+          "price": "4,800",
+          "tone": "e-terea-oasis-pearl",
+          "label": "e-terea-oasis-pink",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|유젠|normal",
+      "answerIds": [
+        "E-T-R4-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "유젠"
+      ],
+      "coreName": "유젠",
+      "fullName": "테리아 유젠",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 유젠"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R4-C2",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "유젠",
+          "price": "4,800",
+          "tone": "e-terea-yugen",
+          "label": "e-terea-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|트와일라잇펄|normal",
+      "answerIds": [
+        "D-T-R1-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "트와일라잇 펄"
+      ],
+      "coreName": "트와일라잇 펄",
+      "fullName": "테리아 트와일라잇 펄",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 트와일라잇 펄"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-T-R1-C2",
+          "zone": "D",
+          "brand": "TEREA",
+          "name": "트와일라잇 펄",
+          "price": "4,800",
+          "tone": "d-terea-twilight-pearl",
+          "label": "d-terea-purple",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|티크|normal",
+      "answerIds": [
+        "E-T-R1-C2"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "티크"
+      ],
+      "coreName": "티크",
+      "fullName": "테리아 티크",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 티크"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R1-C2",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "티크",
+          "price": "4,800",
+          "tone": "e-terea-teak",
+          "label": "e-terea-brown",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "테리아|퍼플웨이브|normal",
+      "answerIds": [
+        "E-T-R5-C3"
+      ],
+      "zones": [
+        "E"
+      ],
+      "brandRaw": "TEREA",
+      "spokenBrand": "테리아",
+      "brandAliases": [
+        "테리아",
+        "테라",
+        "TEREA"
+      ],
+      "nameRawExamples": [
+        "퍼플 웨이브"
+      ],
+      "coreName": "퍼플 웨이브",
+      "fullName": "테리아 퍼플 웨이브",
+      "price": "4,800",
+      "prices": [
+        "4,800"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "테리아 퍼플 웨이브"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "E-T-R5-C3",
+          "zone": "E",
+          "brand": "TEREA",
+          "name": "퍼플 웨이브",
+          "price": "4,800",
+          "tone": "e-terea-purple-wave",
+          "label": "e-terea-wave-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "팔리아멘트|아쿠아1|normal",
+      "answerIds": [
+        "D-B-R4-C3"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "PARLIAMENT",
+      "spokenBrand": "팔리아멘트",
+      "brandAliases": [
+        "팔리아멘트",
+        "파리아멘트",
+        "PARLIAMENT"
+      ],
+      "nameRawExamples": [
+        "아쿠아 1"
+      ],
+      "coreName": "아쿠아 1",
+      "fullName": "팔리아멘트 아쿠아 1",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "팔리아멘트 아쿠아 1"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R4-C3",
+          "zone": "D",
+          "brand": "PARLIAMENT",
+          "name": "아쿠아 1",
+          "price": "4,500",
+          "tone": "d-parliament-aqua-1",
+          "label": "d-aqua-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "팔리아멘트|아쿠아3|normal",
+      "answerIds": [
+        "D-B-R4-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "PARLIAMENT",
+      "spokenBrand": "팔리아멘트",
+      "brandAliases": [
+        "팔리아멘트",
+        "파리아멘트",
+        "PARLIAMENT"
+      ],
+      "nameRawExamples": [
+        "아쿠아 3"
+      ],
+      "coreName": "아쿠아 3",
+      "fullName": "팔리아멘트 아쿠아 3",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "팔리아멘트 아쿠아 3"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R4-C2",
+          "zone": "D",
+          "brand": "PARLIAMENT",
+          "name": "아쿠아 3",
+          "price": "4,500",
+          "tone": "d-parliament-aqua-3",
+          "label": "d-aqua-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "팔리아멘트|아쿠아5|normal",
+      "answerIds": [
+        "D-B-R4-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "PARLIAMENT",
+      "spokenBrand": "팔리아멘트",
+      "brandAliases": [
+        "팔리아멘트",
+        "파리아멘트",
+        "PARLIAMENT"
+      ],
+      "nameRawExamples": [
+        "아쿠아 5"
+      ],
+      "coreName": "아쿠아 5",
+      "fullName": "팔리아멘트 아쿠아 5",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "팔리아멘트 아쿠아 5"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R4-C1",
+          "zone": "D",
+          "brand": "PARLIAMENT",
+          "name": "아쿠아 5",
+          "price": "4,500",
+          "tone": "d-parliament-aqua-5",
+          "label": "d-aqua-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "팔리아멘트|하이브리드|normal",
+      "answerIds": [
+        "D-B-R3-C2"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "PARLIAMENT",
+      "spokenBrand": "팔리아멘트",
+      "brandAliases": [
+        "팔리아멘트",
+        "파리아멘트",
+        "PARLIAMENT"
+      ],
+      "nameRawExamples": [
+        "하이브리드"
+      ],
+      "coreName": "하이브리드",
+      "fullName": "팔리아멘트 하이브리드",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "팔리아멘트 하이브리드"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R3-C2",
+          "zone": "D",
+          "brand": "PARLIAMENT",
+          "name": "하이브리드",
+          "price": "4,500",
+          "tone": "d-parliament-hybrid-1",
+          "label": "d-hybrid-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "팔리아멘트|하이브리드5|normal",
+      "answerIds": [
+        "D-B-R3-C1"
+      ],
+      "zones": [
+        "D"
+      ],
+      "brandRaw": "PARLIAMENT",
+      "spokenBrand": "팔리아멘트",
+      "brandAliases": [
+        "팔리아멘트",
+        "파리아멘트",
+        "PARLIAMENT"
+      ],
+      "nameRawExamples": [
+        "하이브리드 5"
+      ],
+      "coreName": "하이브리드 5",
+      "fullName": "팔리아멘트 하이브리드 5",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "팔리아멘트 하이브리드 5"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "D-B-R3-C1",
+          "zone": "D",
+          "brand": "PARLIAMENT",
+          "name": "하이브리드 5",
+          "price": "4,500",
+          "tone": "d-parliament-hybrid-5",
+          "label": "d-hybrid-blue",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "하이브리드|전용카트리지|cartridge",
+      "answerIds": [
+        "B-L-T-R2-C5"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "HYBRID",
+      "spokenBrand": "하이브리드",
+      "brandAliases": [
+        "하이브리드",
+        "HYBRID"
+      ],
+      "nameRawExamples": [
+        "하이브리드 전용 카트리지"
+      ],
+      "coreName": "전용 카트리지",
+      "fullName": "하이브리드 전용 카트리지",
+      "price": "300",
+      "prices": [
+        "300"
+      ],
+      "cartridge": true,
+      "aliases": {
+        "exact": [
+          "하이브리드 전용 카트리지"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-L-T-R2-C5",
+          "zone": "B",
+          "brand": "HYBRID",
+          "name": "하이브리드 전용 카트리지",
+          "price": "300",
+          "tone": "hybrid-cart",
+          "label": "hybrid-black",
+          "cartridge": true
+        }
+      ]
+    },
+    {
+      "productKey": "한라산|한라산|normal",
+      "answerIds": [
+        "B-R-B-R4-C9"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "HALLASAN",
+      "spokenBrand": "한라산",
+      "brandAliases": [
+        "한라산",
+        "HALLASAN"
+      ],
+      "nameRawExamples": [
+        "한라산"
+      ],
+      "coreName": "한라산",
+      "fullName": "한라산 한라산",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "한라산 한라산"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-B-R4-C9",
+          "zone": "B",
+          "brand": "HALLASAN",
+          "name": "한라산",
+          "price": "4,500",
+          "tone": "hallasan-br",
+          "label": "br-bottom-black",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "호그스헤드|6mg|normal",
+      "answerIds": [
+        "B-R-T-R5-C3"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "HOGSHEAD",
+      "spokenBrand": "호그스헤드",
+      "brandAliases": [
+        "호그스헤드",
+        "HOGSHEAD"
+      ],
+      "nameRawExamples": [
+        "호그스헤드 6mg"
+      ],
+      "coreName": "6mg",
+      "fullName": "호그스헤드 6mg",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "호그스헤드 6mg"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R5-C3",
+          "zone": "B",
+          "brand": "HOGSHEAD",
+          "name": "호그스헤드 6mg",
+          "price": "4,500",
+          "tone": "hogshead-6",
+          "label": "white-tag",
+          "cartridge": false
+        }
+      ]
+    },
+    {
+      "productKey": "호그스헤드|10mg|normal",
+      "answerIds": [
+        "B-R-T-R5-C4"
+      ],
+      "zones": [
+        "B"
+      ],
+      "brandRaw": "HOGSHEAD",
+      "spokenBrand": "호그스헤드",
+      "brandAliases": [
+        "호그스헤드",
+        "HOGSHEAD"
+      ],
+      "nameRawExamples": [
+        "호그스헤드 10mg"
+      ],
+      "coreName": "10mg",
+      "fullName": "호그스헤드 10mg",
+      "price": "4,500",
+      "prices": [
+        "4,500"
+      ],
+      "cartridge": false,
+      "aliases": {
+        "exact": [
+          "호그스헤드 10mg"
+        ],
+        "short": [],
+        "feature": [],
+        "casual": [],
+        "wrongButCommon": [],
+        "disabled": []
+      },
+      "examples": [
+        {
+          "slotId": "B-R-T-R5-C4",
+          "zone": "B",
+          "brand": "HOGSHEAD",
+          "name": "호그스헤드 10mg",
+          "price": "4,500",
+          "tone": "hogshead-10",
+          "label": "white-tag",
+          "cartridge": false
+        }
+      ]
+    }
+  ]
+}
